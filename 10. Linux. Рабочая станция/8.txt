@@ -1,0 +1,130 @@
+2. Подключить репозиторий Docker.
+
+student@Ubuntu-MySQL-VirtualBox:~$ docker --help
+Программа 'docker' на данный момент не установлена. Вы можете установить её, выполнив:
+sudo apt install docker.io
+student@Ubuntu-MySQL-VirtualBox:~$ sudo apt install docker.io
+..
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker run hello-world
+Unable to find image 'hello-world:latest' locally
+latest: Pulling from library/hello-world
+2db29710123e: Pull complete 
+Digest: sha256:7d246653d0511db2a6b2e0436cfd0e52ac8c066000264b3ce63331ac66dca625
+Status: Downloaded newer image for hello-world:latest
+
+Hello from Docker!
+This message shows that your installation appears to be working correctly.
+
+To generate this message, Docker took the following steps:
+ 1. The Docker client contacted the Docker daemon.
+ 2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+    (amd64)
+ 3. The Docker daemon created a new container from that image which runs the
+    executable that produces the output you are currently reading.
+ 4. The Docker daemon streamed that output to the Docker client, which sent it
+    to your terminal.
+
+To try something more ambitious, you can run an Ubuntu container with:
+ $ docker run -it ubuntu bash
+
+Share images, automate workflows, and more with a free Docker ID:
+ https://hub.docker.com/
+
+For more examples and ideas, visit:
+ https://docs.docker.com/get-started/
+
+
+
+3. Запустить контейнер с Ubuntu.
+
+student@Ubuntu-MySQL-VirtualBox:~$ docker pull ubuntu
+Using default tag: latest
+Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Post http://%2Fvar%2Frun%2Fdocker.sock/v1.39/images/create?fromImage=ubuntu&tag=latest: dial unix /var/run/docker.sock: connect: permission denied
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker pull ubuntu
+Using default tag: latest
+latest: Pulling from library/ubuntu
+2b55860d4c66: Pull complete 
+Digest: sha256:20fa2d7bb4de7723f542be5923b06c4d704370f0390e4ae9e1c833c8785644c1
+Status: Downloaded newer image for ubuntu:latest
+student@Ubuntu-MySQL-VirtualBox:~$ docker run -it ubuntu
+docker: Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Post http://%2Fvar%2Frun%2Fdocker.sock/v1.39/containers/create: dial unix /var/run/docker.sock: connect: permission denied.
+See 'docker run --help'.
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker run -it ububntu
+Unable to find image 'ububntu:latest' locally
+docker: Error response from daemon: pull access denied for ububntu, repository does not exist or may require 'docker login'.
+See 'docker run --help'.
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker run -it ubuntu
+root@d5bb7e6964f0:/# apt-get update
+Get:1 http://archive.ubuntu.com/ubuntu jammy InRelease [270 kB]
+Get:2 http://security.ubuntu.com/ubuntu jammy-security InRelease [110 kB]        
+Get:3 http://archive.ubuntu.com/ubuntu jammy-updates InRelease [114 kB]          
+Get:4 http://archive.ubuntu.com/ubuntu jammy-backports InRelease [99.8 kB]
+Err:1 http://archive.ubuntu.com/ubuntu jammy InRelease             
+  The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 871920D1991BC93C
+Err:3 http://archive.ubuntu.com/ubuntu jammy-updates InRelease
+  The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 871920D1991BC93C
+Err:4 http://archive.ubuntu.com/ubuntu jammy-backports InRelease
+  The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 871920D1991BC93C
+Err:2 http://security.ubuntu.com/ubuntu jammy-security InRelease
+  The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 871920D1991BC93C
+Reading package lists... Done
+W: http://archive.ubuntu.com/ubuntu/dists/jammy/InRelease: The key(s) in the keyring /etc/apt/trusted.gpg.d/ubuntu-keyring-2012-cdimage.gpg are ignored as the file is not readable by user '_apt' executing apt-key.
+W: http://archive.ubuntu.com/ubuntu/dists/jammy/InRelease: The key(s) in the keyring /etc/apt/trusted.gpg.d/ubuntu-keyring-2018-archive.gpg are ignored as the file is not readable by user '_apt' executing apt-key.
+W: GPG error: http://archive.ubuntu.com/ubuntu jammy InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 871920D1991BC93C
+E: The repository 'http://archive.ubuntu.com/ubuntu jammy InRelease' is not signed.
+N: Updating from such a repository can't be done securely, and is therefore disabled by default.
+N: See apt-secure(8) manpage for repository creation and user configuration details.
+W: http://archive.ubuntu.com/ubuntu/dists/jammy-updates/InRelease: The key(s) in the keyring /etc/apt/trusted.gpg.d/ubuntu-keyring-2012-cdimage.gpg are ignored as the file is not readable by user '_apt' executing apt-key.
+W: http://archive.ubuntu.com/ubuntu/dists/jammy-updates/InRelease: The key(s) in the keyring /etc/apt/trusted.gpg.d/ubuntu-keyring-2018-archive.gpg are ignored as the file is not readable by user '_apt' executing apt-key.
+W: GPG error: http://archive.ubuntu.com/ubuntu jammy-updates InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 871920D1991BC93C
+E: The repository 'http://archive.ubuntu.com/ubuntu jammy-updates InRelease' is not signed.
+N: Updating from such a repository can't be done securely, and is therefore disabled by default.
+N: See apt-secure(8) manpage for repository creation and user configuration details.
+W: http://archive.ubuntu.com/ubuntu/dists/jammy-backports/InRelease: The key(s) in the keyring /etc/apt/trusted.gpg.d/ubuntu-keyring-2012-cdimage.gpg are ignored as the file is not readable by user '_apt' executing apt-key.
+W: http://archive.ubuntu.com/ubuntu/dists/jammy-backports/InRelease: The key(s) in the keyring /etc/apt/trusted.gpg.d/ubuntu-keyring-2018-archive.gpg are ignored as the file is not readable by user '_apt' executing apt-key.
+W: GPG error: http://archive.ubuntu.com/ubuntu jammy-backports InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 871920D1991BC93C
+E: The repository 'http://archive.ubuntu.com/ubuntu jammy-backports InRelease' is not signed.
+N: Updating from such a repository can't be done securely, and is therefore disabled by default.
+N: See apt-secure(8) manpage for repository creation and user configuration details.
+W: http://security.ubuntu.com/ubuntu/dists/jammy-security/InRelease: The key(s) in the keyring /etc/apt/trusted.gpg.d/ubuntu-keyring-2012-cdimage.gpg are ignored as the file is not readable by user '_apt' executing apt-key.
+W: http://security.ubuntu.com/ubuntu/dists/jammy-security/InRelease: The key(s) in the keyring /etc/apt/trusted.gpg.d/ubuntu-keyring-2018-archive.gpg are ignored as the file is not readable by user '_apt' executing apt-key.
+W: GPG error: http://security.ubuntu.com/ubuntu jammy-security InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 871920D1991BC93C
+E: The repository 'http://security.ubuntu.com/ubuntu jammy-security InRelease' is not signed.
+N: Updating from such a repository can't be done securely, and is therefore disabled by default.
+N: See apt-secure(8) manpage for repository creation and user configuration details.
+E: Problem executing scripts APT::Update::Post-Invoke 'rm -f /var/cache/apt/archives/*.deb /var/cache/apt/archives/partial/*.deb /var/cache/apt/*.bin || true'
+E: Sub-process returned an error code
+root@d5bb7e6964f0:/# apt-get install mc
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+Package mc is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+E: Package 'mc' has no installation candidate
+root@d5bb7e6964f0:/# exit
+exit
+student@Ubuntu-MySQL-VirtualBox:~$ docker ps
+Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get http://%2Fvar%2Frun%2Fdocker.sock/v1.39/containers/json: dial unix /var/run/docker.sock: connect: permission denied
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker ps
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker ps -a
+CONTAINER ID        IMAGE               COMMAND             CREATED              STATUS                        PORTS               NAMES
+d5bb7e6964f0        ubuntu              "bash"              About a minute ago   Exited (100) 24 seconds ago                       zealous_wu
+8f9bea984c64        hello-world         "/hello"            2 minutes ago        Exited (0) 2 minutes ago                          mystifying_bose
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker stop d5bb7e6964f0
+d5bb7e6964f0
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker rm d5bb7e6964f0
+d5bb7e6964f0
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker stop 8f9bea984c64
+8f9bea984c64
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker rm 8f9bea984c6
+8f9bea984c6
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker ps
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+student@Ubuntu-MySQL-VirtualBox:~$ sudo docker ps -a
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+student@Ubuntu-MySQL-VirtualBox:~$ 
+
+

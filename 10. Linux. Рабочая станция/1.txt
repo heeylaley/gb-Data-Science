@@ -1,0 +1,19 @@
+1. Обзавестись установленной версией Linux Ubuntu.
+
+student@Ubuntu-MySQL-VirtualBox:~$  uname
+Linux
+student@Ubuntu-MySQL-VirtualBox:~$ uname -a
+Linux Ubuntu-MySQL-VirtualBox 4.15.0-47-generic #50~16.04.1-Ubuntu SMP Fri Mar 15 16:06:21 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+student@Ubuntu-MySQL-VirtualBox:~$ hostnamectl
+   Static hostname: Ubuntu-MySQL-VirtualBox
+         Icon name: computer-vm
+           Chassis: vm
+        Machine ID: 6917807b2dca43d681d86ffe5ca8e5d1
+           Boot ID: fb6a9daaae2a4840b19b30b4c7c8df40
+    Virtualization: oracle
+  Operating System: Ubuntu 16.04.6 LTS
+            Kernel: Linux 4.15.0-47-generic
+      Architecture: x86-64
+student@Ubuntu-MySQL-VirtualBox:~$ ^C
+student@Ubuntu-MySQL-VirtualBox:~$ 
+

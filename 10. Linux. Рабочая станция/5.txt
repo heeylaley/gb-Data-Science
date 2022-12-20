@@ -1,0 +1,185 @@
+1. Создать файл file1 и наполнить его произвольным содержимым. Скопировать его в file2.
+Создать символическую ссылку file3 на file1. Создать жёсткую ссылку file4 на file1.
+Посмотреть, какие inode у файлов. Удалить file1. Что стало с остальными созданными файлами?
+Попробовать вывести их на экран.
+
+student@Ubuntu-MySQL-VirtualBox:~$ mkdir dz5
+student@Ubuntu-MySQL-VirtualBox:~$ cd dz5
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ echo lalalala > file1
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ cat file1
+lalalala
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ cp file1 file2
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ ls
+file1  file2
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ ln -s file1 file3
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ ln file1 file4
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ ll -i
+итого 20
+688826 drwxrwxr-x  2 student student 4096 авг 12 11:15 ./
+680305 drwxr-xr-x 26 student student 4096 авг 12 11:13 ../
+652203 -rw-rw-r--  2 student student    9 авг 12 11:14 file1
+688845 -rw-rw-r--  1 student student    9 авг 12 11:14 file2
+688847 lrwxrwxrwx  1 student student    5 авг 12 11:15 file3 -> file1
+652203 -rw-rw-r--  2 student student    9 авг 12 11:14 file4
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ rm file1
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ ls
+file2  file3  file4
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ cat file2
+lalalala
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ cat file3
+cat: file3: Нет такого файла или каталога
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ cat file4
+lalalala
+
+
+2. Дать созданным файлам другие, произвольные имена. Создать новую символическую ссылку.
+Переместить ссылки в другую директорию.
+
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ echo tralala > file1
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ ls
+file1  file2  file3  file4
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ cat file2
+lalalala
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ cat file3
+tralala
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ cat file4
+lalalala
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ ll -i
+итого 20
+688826 drwxrwxr-x  2 student student 4096 авг 12 11:22 ./
+680305 drwxr-xr-x 26 student student 4096 авг 12 11:18 ../
+688838 -rw-rw-r--  1 student student    8 авг 12 11:22 file1
+688845 -rw-rw-r--  1 student student    9 авг 12 11:14 file2
+688847 lrwxrwxrwx  1 student student    5 авг 12 11:15 file3 -> file1
+652203 -rw-rw-r--  1 student student    9 авг 12 11:14 file4
+
+-- file4 ссылается на первую версию file1
+
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ mv file1 origin
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ mv file2 copy
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ mv file3 soft
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ mv file4 hard
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ ls
+copy  hard  origin  soft
+
+-- soft не будет работать из-за переименовывания
+
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ ln -s origin softlink
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ ls
+copy  hard  origin  soft  softlink
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ cd ..
+student@Ubuntu-MySQL-VirtualBox:~$ ls
+dz4  examples.desktop  Документы  Изображения  Общедоступные  Шаблоны
+dz5  Видео             Загрузки   Музыка       Рабочий стол
+student@Ubuntu-MySQL-VirtualBox:~$ cd dz5
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ mv sofrlink hard dz4/
+mv: указанная цель 'dz4/' не является каталогом
+
+
+3. Создать два произвольных файла. Первому присвоить права на чтение и запись для владельца и группы,
+только на чтение — для всех. Второму присвоить права на чтение и запись только для владельца.
+
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ echo 1111 > 1
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ echo 2222 > 2
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ ls
+1  2  copy  hard  origin  soft
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ chmod 664 1
+student@Ubuntu-MySQL-VirtualBox:~/dz5$  chmod 600 2
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ ll
+итого 28
+drwxrwxr-x  2 student student 4096 авг 12 11:51 ./
+drwxr-xr-x 26 student student 4096 авг 12 11:18 ../
+-rw-rw-r--  1 student student    5 авг 12 11:47 1
+-rw-------  1 student student    5 авг 12 11:47 2
+-rw-rw-r--  1 student student    9 авг 12 11:14 copy
+-rw-rw-r--  1 student student    9 авг 12 11:14 hard
+-rw-rw-r--  1 student student    8 авг 12 11:22 origin
+lrwxrwxrwx  1 student student    6 авг 12 11:28 softlink -> origin
+
+
+4. * Создать группу developer и нескольких пользователей, входящих в неё.
+Создать директорию для совместной работы. Сделать так, чтобы созданные одними пользователями
+файлы могли изменять другие пользователи этой группы.
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo addgroup developer
+[sudo] пароль для student: 
+Добавляется группа «developer» (GID 1001) ...
+Готово.
+student@Ubuntu-MySQL-VirtualBox:~$ sudo adduser user1
+Добавляется пользователь «user1» ...
+Добавляется новая группа «user1» (1002) ...
+Добавляется новый пользователь «user1» (1001) в группу «user1» ...
+Создаётся домашний каталог «/home/user1» ...
+Копирование файлов из «/etc/skel» ...
+Введите новый пароль UNIX: 
+Повторите ввод нового пароля UNIX: 
+passwd: пароль успешно обновлён
+Изменение информации о пользователе user1
+Введите новое значение или нажмите ENTER для выбора значения по умолчанию
+	Полное имя []: 
+	Номер комнаты []: 
+	Рабочий телефон []: 
+	Домашний телефон []: 
+	Другое []: 
+Данная информация корректна? [Y/n] 
+student@Ubuntu-MySQL-VirtualBox:~$ sudo adduser user2
+Добавляется пользователь «user2» ...
+Добавляется новая группа «user2» (1003) ...
+Добавляется новый пользователь «user2» (1002) в группу «user2» ...
+Домашний каталог «/home/user2» уже существует. Не копируется из «/etc/skel».
+adduser: Внимание: данный домашний каталог `/home/user2' не принадлежит пользователю, которого вы сейчас создаете
+Введите новый пароль UNIX: 
+Повторите ввод нового пароля UNIX: 
+passwd: пароль успешно обновлён
+Изменение информации о пользователе user2
+Введите новое значение или нажмите ENTER для выбора значения по умолчанию
+	Полное имя []: 
+	Номер комнаты []: 
+	Рабочий телефон []: 
+	Домашний телефон []: 
+	Другое []: 
+Данная информация корректна? [Y/n] 
+student@Ubuntu-MySQL-VirtualBox:~$ sudo usermod -aG developer user1
+student@Ubuntu-MySQL-VirtualBox:~$ sudo usermod -aG developer user2
+student@Ubuntu-MySQL-VirtualBox:~$ getent group developer
+developer:x:1001:user1,user2
+student@Ubuntu-MySQL-VirtualBox:~$ cd dz5
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ mkdir developer_group
+student@Ubuntu-MySQL-VirtualBox:~/dz5$ cd developer_group
+student@Ubuntu-MySQL-VirtualBox:~/dz5/developer_group$ echo > file1
+student@Ubuntu-MySQL-VirtualBox:~/dz5/developer_group$ echo > file2
+student@Ubuntu-MySQL-VirtualBox:~/dz5/developer_group$ sudo chown -R :developer .
+student@Ubuntu-MySQL-VirtualBox:~/dz5/developer_group$ ll
+итого 16
+drwxrwxr-x 2 student developer 4096 авг 12 12:01 ./
+drwxrwxr-x 3 student student   4096 авг 12 12:00 ../
+-rw-rw-r-- 1 student developer    1 авг 12 12:01 file1
+-rw-rw-r-- 1 student developer    1 авг 12 12:01 file2
+
+
+5. * Создать в директории для совместной работы поддиректорию для обмена файлами, но чтобы удалять
+файлы могли только их создатели.
+
+student@Ubuntu-MySQL-VirtualBox:~/dz5/developer_group$  mkdir dir
+student@Ubuntu-MySQL-VirtualBox:~/dz5/developer_group$ cd dir
+student@Ubuntu-MySQL-VirtualBox:~/dz5/developer_group/dir$ echo > file1
+student@Ubuntu-MySQL-VirtualBox:~/dz5/developer_group/dir$ ll
+итого 12
+drwxrwxr-x 2 student student   4096 авг 12 12:11 ./
+drwxrwxr-x 3 student developer 4096 авг 12 12:10 ../
+-rw-rw-r-- 1 student student      1 авг 12 12:11 file1
+student@Ubuntu-MySQL-VirtualBox:~/dz5/developer_group/dir$ sudo chown -R :developer .
+student@Ubuntu-MySQL-VirtualBox:~/dz5/developer_group/dir$ ll
+итого 12
+drwxrwxr-x 2 student developer 4096 авг 12 12:11 ./
+drwxrwxr-x 3 student developer 4096 авг 12 12:10 ../
+-rw-rw-r-- 1 student developer    1 авг 12 12:11 file1
+student@Ubuntu-MySQL-VirtualBox:~/dz5/developer_group/dir$  chmod +t -R .
+student@Ubuntu-MySQL-VirtualBox:~/dz5/developer_group/dir$ ll
+итого 12
+drwxrwxr-t 2 student developer 4096 авг 12 12:11 ./
+drwxrwxr-x 3 student developer 4096 авг 12 12:10 ../
+-rw-rw-r-T 1 student developer    1 авг 12 12:11 file1
+
+
+

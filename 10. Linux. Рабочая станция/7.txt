@@ -1,0 +1,23 @@
+1. Подключить репозиторий с nginx любым удобным способом, установить nginx и
+потом удалить nginx, используя утилиту dpkg
+
+student@Ubuntu-MySQL-VirtualBox:~$ curl -fsSL https://nginx.org/keys/nginx_signing.key | sudo apt-key add -
+...
+student@Ubuntu-MySQL-VirtualBox:~$ sudo apt update
+...
+student@Ubuntu-MySQL-VirtualBox:~$ sudo dpkg -r nginx
+
+
+2. Установить пакет на свой выбор, используя snap.
+
+student@Ubuntu-MySQL-VirtualBox:~$ snap search postman
+student@Ubuntu-MySQL-VirtualBox:~$ sudo snap install postman
+student@Ubuntu-MySQL-VirtualBox:~$ postman
+
+
+3. Настроить iptables: разрешить подключения только на 22-й и 80-й порты.
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo iptables -P INPUT DROP
+student@Ubuntu-MySQL-VirtualBox:~$ sudo iptables -A INPUT -i eth0 -p tcp --dport 80 -j ACCEPT
+student@Ubuntu-MySQL-VirtualBox:~$ sudo iptables -A INPUT -i eth0 -p tcp --dport 22 -j ACCEPT
+

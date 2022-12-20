@@ -1,0 +1,94 @@
+1. Потоки ввода/вывода. Создать файл, используя команду echo. Используя команду cat,
+прочитать содержимое всех файлов каталога etc, ошибки перенаправить в отдельный файл.
+
+student@Ubuntu-MySQL-VirtualBox:~$ mkdir dz4
+student@Ubuntu-MySQL-VirtualBox:~$ cd dz4
+student@Ubuntu-MySQL-VirtualBox:~/dz4$ echo arebetnbnb > file1
+student@Ubuntu-MySQL-VirtualBox:~/dz4$ ls
+file1
+student@Ubuntu-MySQL-VirtualBox:~/dz4$ more file1
+arebetnbnb
+student@Ubuntu-MySQL-VirtualBox:~/dz4$ cat /etc/* 1> results.txt 2> errors.txt
+student@Ubuntu-MySQL-VirtualBox:~/dz4$ ls
+errors.txt  file1  results.txt
+student@Ubuntu-MySQL-VirtualBox:~/dz4$ head results.txt
+# /etc/adduser.conf: `adduser' configuration.
+# See adduser(8) and adduser.conf(5) for full documentation.
+
+# The DSHELL variable specifies the default login shell on your
+# system.
+DSHELL=/bin/bash
+
+# The DHOME variable specifies the directory containing users' home
+# directories.
+DHOME=/home
+student@Ubuntu-MySQL-VirtualBox:~/dz4$ head errors.txt
+cat: /etc/acpi: Это каталог
+cat: /etc/alternatives: Это каталог
+cat: /etc/apm: Это каталог
+cat: /etc/apparmor: Это каталог
+cat: /etc/apparmor.d: Это каталог
+cat: /etc/apport: Это каталог
+cat: /etc/apt: Это каталог
+cat: /etc/aptdaemon: Это каталог
+cat: /etc/at-spi2: Это каталог
+cat: /etc/avahi: Это каталог
+
+
+2. Конвейер (pipeline). Использовать команду cut на вывод длинного списка каталога, чтобы отобразить
+только права доступа к файлам. Затем отправить в конвейере этот вывод на sort и uniq, чтобы отфильтровать
+все повторяющиеся строки.
+
+student@Ubuntu-MySQL-VirtualBox:~$ ls -lA /etc | cut -d ' ' -f1 | grep -v итого | sort | uniq
+drwxr-s---
+drwxr-xr-x
+lrwxrwxrwx
+-r--r-----
+-r--r--r--
+-rw-------
+-rw-r-----
+-rw-r--r--
+-rw-rw-r--
+-rwxr-xr-x
+
+
+3. Управление процессами.) Изменить конфигурационный файл службы SSH: /etc/ssh/sshd_config,
+отключив аутентификацию по паролю PasswordAuthentication no. Выполните рестарт службы systemctl
+restart sshd (service sshd restart), верните аутентификацию по паролю, выполните reload службы
+systemctl reload sshd (services sshd reload). В чём различие между действиями restart и reload?
+Создайте файл при помощи команды cat > file_name, напишите текст и завершите комбинацией ctrl+d.
+Какой сигнал передадим процессу?
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo nano /etc/ssh/sshd_config
+в файле: PasswordAuthentication no
+student@Ubuntu-MySQL-VirtualBox:~$ student@Ubuntu-MySQL-VirtualBox:~$
+student@Ubuntu-MySQL-VirtualBox:~$ sudo systemctl restart sshd
+student@Ubuntu-MySQL-VirtualBox:~$ sudo nano /etc/ssh/sshd_config
+в файле: PasswordAuthentication yes
+student@Ubuntu-MySQL-VirtualBox:~$ sudo systemctl reload sshd
+
+Разница между restart и reload:
+restart - PID меняется
+reload - PID не меняется
+
+student@Ubuntu-MySQL-VirtualBox:~$ cd d4
+bash: cd: d4: Нет такого файла или каталога
+student@Ubuntu-MySQL-VirtualBox:~$ cd dz4
+student@Ubuntu-MySQL-VirtualBox:~/dz4$ cat > file2
+lsrlglr
+s,fbrgtr
+rrrrrr
+student@Ubuntu-MySQL-VirtualBox:~/dz4$ 
+
+ctrl+d = EOF
+
+
+4. Сигналы процессам. Запустите mc. Используя ps, найдите PID процесса, завершите процесс,
+передав ему сигнал 9.
+
+(в другом терминале) student@Ubuntu-MySQL-VirtualBox:~$ mc
+student@Ubuntu-MySQL-VirtualBox:~$ ps aux | grep mc
+student   4139  0.1  0.3  69120  7964 pts/3    S+   21:11   0:00 mc
+student   4155  0.0  0.0  21316   944 pts/1    S+   21:11   0:00 grep --color=auto mc
+student@Ubuntu-MySQL-VirtualBox:~$ kill -s 9 4139
+student@Ubuntu-MySQL-VirtualBox:~$ 

@@ -1,0 +1,270 @@
+1. Управление пользователями:
+a) создать нового пользователя;
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo adduser lalala
+[sudo] пароль для student: 
+Добавляется пользователь «lalala» ...
+Добавляется новая группа «lalala» (1001) ...
+Добавляется новый пользователь «lalala» (1001) в группу «lalala» ...
+Создаётся домашний каталог «/home/lalala» ...
+Копирование файлов из «/etc/skel» ...
+Введите новый пароль UNIX: 
+Повторите ввод нового пароля UNIX: 
+Sorry, passwords do not match
+passwd: Ошибка при операциях с маркером проверки подлинности
+passwd: пароль не изменён
+Попробовать ещё раз? [y/N] y
+Введите новый пароль UNIX: 
+Повторите ввод нового пароля UNIX: 
+passwd: пароль успешно обновлён
+Изменение информации о пользователе lalala
+Введите новое значение или нажмите ENTER для выбора значения по умолчанию
+	Полное имя []: 
+	Номер комнаты []: 
+	Рабочий телефон []: 
+	Домашний телефон []: 
+	Другое []: 
+Данная информация корректна? [Y/n]
+
+b) убедиться, что информация о нем появилась в соответствующих файлах в системе;
+
+student@Ubuntu-MySQL-VirtualBox:~$ more /etc/passwd
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/var/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologi
+n
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-timesync:x:100:102:systemd Time Synchronization,,,:/run/systemd:/bin/fal
+se
+systemd-network:x:101:103:systemd Network Management,,,:/run/systemd/netif:/bin/
+false
+systemd-resolve:x:102:104:systemd Resolver,,,:/run/systemd/resolve:/bin/false
+systemd-bus-proxy:x:103:105:systemd Bus Proxy,,,:/run/systemd:/bin/false
+syslog:x:104:108::/home/syslog:/bin/false
+_apt:x:105:65534::/nonexistent:/bin/false
+messagebus:x:106:110::/var/run/dbus:/bin/false
+uuidd:x:107:111::/run/uuidd:/bin/false
+lightdm:x:108:114:Light Display Manager:/var/lib/lightdm:/bin/false
+whoopsie:x:109:117::/nonexistent:/bin/false
+avahi-autoipd:x:110:119:Avahi autoip daemon,,,:/var/lib/avahi-autoipd:/bin/false
+avahi:x:111:120:Avahi mDNS daemon,,,:/var/run/avahi-daemon:/bin/false
+dnsmasq:x:112:65534:dnsmasq,,,:/var/lib/misc:/bin/false
+colord:x:113:123:colord colour management daemon,,,:/var/lib/colord:/bin/false
+speech-dispatcher:x:114:29:Speech Dispatcher,,,:/var/run/speech-dispatcher:/bin/false
+hplip:x:115:7:HPLIP system user,,,:/var/run/hplip:/bin/false
+kernoops:x:116:65534:Kernel Oops Tracking Daemon,,,:/:/bin/false
+pulse:x:117:124:PulseAudio daemon,,,:/var/run/pulse:/bin/false
+rtkit:x:118:126:RealtimeKit,,,:/proc:/bin/false
+saned:x:119:127::/var/lib/saned:/bin/false
+usbmux:x:120:46:usbmux daemon,,,:/var/lib/usbmux:/bin/false
+student:x:1000:1000:student,,,:/home/student:/bin/bash
+vboxadd:x:999:1::/var/run/vboxadd:/bin/false
+mysql:x:121:129:MySQL Server,,,:/nonexistent:/bin/false
+sshd:x:122:65534::/var/run/sshd:/usr/sbin/nologin
+lalala:x:1001:1001:,,,:/home/lalala:/bin/bash
+
+c) удалить созданного пользователя;
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo userdel lalala -r
+[sudo] пароль для student: 
+userdel: почтовый ящик lalala (/var/mail/lalala) не найден
+student@Ubuntu-MySQL-VirtualBox:~$ ls /home
+student
+
+
+2. Управление группами:
+a) создать группу;
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo adduser user1
+Добавляется пользователь «user1» ...
+Добавляется новая группа «user1» (1001) ...
+Добавляется новый пользователь «user1» (1001) в группу «user1» ...
+Создаётся домашний каталог «/home/user1» ...
+Копирование файлов из «/etc/skel» ...
+Введите новый пароль UNIX: 
+Повторите ввод нового пароля UNIX: 
+passwd: пароль успешно обновлён
+Изменение информации о пользователе user1
+Введите новое значение или нажмите ENTER для выбора значения по умолчанию
+	Полное имя []: 
+	Номер комнаты []: 
+	Рабочий телефон []: 
+	Домашний телефон []: 
+	Другое []: 
+Данная информация корректна? [Y/n] 
+student@Ubuntu-MySQL-VirtualBox:~$ sudo adduser user2
+Добавляется пользователь «user2» ...
+Добавляется новая группа «user2» (1002) ...
+Добавляется новый пользователь «user2» (1002) в группу «user2» ...
+Создаётся домашний каталог «/home/user2» ...
+Копирование файлов из «/etc/skel» ...
+Введите новый пароль UNIX: 
+Повторите ввод нового пароля UNIX: 
+passwd: пароль успешно обновлён
+Изменение информации о пользователе user2
+Введите новое значение или нажмите ENTER для выбора значения по умолчанию
+	Полное имя []: 
+	Номер комнаты []: 
+	Рабочий телефон []: 
+	Домашний телефон []: 
+	Другое []: 
+Данная информация корректна? [Y/n]
+student@Ubuntu-MySQL-VirtualBox:~$ sudo addgroup team_red
+Добавляется группа «team_red» (GID 1003) ...
+Готово.
+student@Ubuntu-MySQL-VirtualBox:~$ sudo addgroup team_blue
+Добавляется группа «team_blue» (GID 1004) ...
+Готово.
+
+b) попрактиковаться в смене групп у пользователей;
+c) добавить пользователя в группу, не меняя основной;
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo usermod -aG team_red user1
+student@Ubuntu-MySQL-VirtualBox:~$ getent group team_red
+team_red:x:1003:user1
+student@Ubuntu-MySQL-VirtualBox:~$ sudo usermod -aG team_red user2
+student@Ubuntu-MySQL-VirtualBox:~$ getent group team_red
+team_red:x:1003:user1,user2
+student@Ubuntu-MySQL-VirtualBox:~$ sudo usermod -aG team_blue user1
+student@Ubuntu-MySQL-VirtualBox:~$ su user1
+Пароль: 
+user1@Ubuntu-MySQL-VirtualBox:/home/student$ groups
+user1 team_red team_blue
+user1@Ubuntu-MySQL-VirtualBox:/home/student$ exit
+exit
+
+d) удалить пользователя из группы.
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo deluser user1 team_red
+Удаляется пользователь «user1» из группы «team_red» ...
+Готово.
+student@Ubuntu-MySQL-VirtualBox:~$ getent group team_red
+team_red:x:1003:user2
+student@Ubuntu-MySQL-VirtualBox:~$ sudo delgroup team_red
+Удаляется группа «team_red» ...
+Готово.
+student@Ubuntu-MySQL-VirtualBox:~$ sudo delgroup team_blue
+Удаляется группа «team_blue» ...
+Готово.
+
+
+3. Создать пользователя с правами суперпользователя. Проверить результат.
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo adduser user1 sudo
+Добавляется пользователь «user1» в группу «sudo» ...
+Добавление пользователя user1 в группу sudo
+Готово.
+student@Ubuntu-MySQL-VirtualBox:~$ su user1
+Пароль: 
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+user1@Ubuntu-MySQL-VirtualBox:/home/student$ sudo apt update
+[sudo] пароль для user1: 
+Сущ:1 http://ru.archive.ubuntu.com/ubuntu xenial InRelease
+Сущ:2 http://ru.archive.ubuntu.com/ubuntu xenial-updates InRelease                                                   
+Сущ:3 http://ru.archive.ubuntu.com/ubuntu xenial-backports InRelease                                                 
+Пол:4 http://security.ubuntu.com/ubuntu xenial-security InRelease [99,8 kB]                                          
+Сущ:5 http://ppa.launchpad.net/linuxuprising/java/ubuntu xenial InRelease                                            
+Сущ:6 http://ppa.launchpad.net/webupd8team/java/ubuntu xenial InRelease                                              
+Сущ:7 https://dbeaver.io/debs/dbeaver-ce  InRelease                                                   
+Пол:8 http://security.ubuntu.com/ubuntu xenial-security/main amd64 DEP-11 Metadata [93,8 kB]                         
+Пол:9 http://security.ubuntu.com/ubuntu xenial-security/universe amd64 DEP-11 Metadata [130 kB]                      
+Пол:10 http://security.ubuntu.com/ubuntu xenial-security/multiverse amd64 DEP-11 Metadata [2 468 B]                  
+Получено 326 kB за 10с (31,7 kB/s)                                                                                   
+
+
+Чтение списков пакетов… Готово
+Построение дерева зависимостей       
+Чтение информации о состоянии… Готово
+Может быть обновлено 456 пакетов. Запустите «apt list --upgradable» для их показа.
+user1@Ubuntu-MySQL-VirtualBox:/home/student$ exit
+exit
+student@Ubuntu-MySQL-VirtualBox:~$ groups user1
+user1 : user1 sudo
+student@Ubuntu-MySQL-VirtualBox:~$ sudo deluser user1 sudo
+Удаляется пользователь «user1» из группы «sudo» ...
+Готово.
+
+
+4. *Используя дополнительные материалы, выдать одному из созданных пользователей право на выполнение
+ряда команд, требующих прав суперпользователя (команды выбираем на своё усмотрение).
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo visudo
+
+---- в файле sudoers.tmp ----
+
+GNU nano 2.5.3 Файл: /etc/sudoers.tmp Изменён
+
+#
+# This file MUST be edited with the 'visudo' command as root.
+#
+# Please consider adding local content in /etc/sudoers.d/ instead of
+# directly modifying this file.
+#
+# See the man page for details on how to write a sudoers file.
+#
+Defaults env_reset
+Defaults mail_badpass
+Defaults secure_path="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin"
+
+# Host alias specification
+
+# User alias specification
+
+# Cmnd alias specification
+
+# User privilege specification
+root ALL=(ALL:ALL) ALL
+
+# Members of the admin group may gain root privileges
+%admin ALL=(ALL) ALL
+
+# Allow members of group sudo to execute any command
+%sudo ALL=(ALL:ALL) ALL
+
+# See sudoers(5) for more information on "#include" directives:
+
+#includedir /etc/sudoers.d
+
+user1 ALL=/usr/sbin/deluser
+
+-------
+
+visudo: /etc/sudoers.tmp не изменено
+student@Ubuntu-MySQL-VirtualBox:~$  su user1
+Пароль:
+user1@Ubuntu-MySQL-VirtualBox:/home/student$ sudo deluser user2
+Удаляется пользователь «user2» ...
+Предупреждение: в группе `user2' больше никого нет.
+Готово.
+user1@Ubuntu-MySQL-VirtualBox:/home/student$ exit
+exit
+student@Ubuntu-MySQL-VirtualBox:~$ sudo userdel user1 -r
+userdel: почтовый ящик user1 (/var/mail/user1) не найден
+student@Ubuntu-MySQL-VirtualBox:~$ tail /etc/group
+scanner:x:122:saned
+colord:x:123:
+pulse:x:124:
+pulse-access:x:125:
+rtkit:x:126:
+saned:x:127:
+student:x:1000:
+sambashare:x:128:student
+vboxsf:x:999:
+mysql:x:129:
+student@Ubuntu-MySQL-VirtualBox:~$

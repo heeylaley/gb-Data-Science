@@ -1,0 +1,105 @@
+1. Создать каталоги students и mentors в домашней директории, а в них — текстовые
+файлы students_list.txt и mentors_list.txt соответственно.
+
+student@Ubuntu-MySQL-VirtualBox:~$ mkdir students
+student@Ubuntu-MySQL-VirtualBox:~$ ls
+examples.desktop  Видео      Загрузки     Музыка         Рабочий стол
+students          Документы  Изображения  Общедоступные  Шаблоны
+student@Ubuntu-MySQL-VirtualBox:~$ mkdir mentors
+student@Ubuntu-MySQL-VirtualBox:~$ ls
+examples.desktop  students  Документы  Изображения  Общедоступные  Шаблоны
+mentors           Видео     Загрузки   Музыка       Рабочий стол
+student@Ubuntu-MySQL-VirtualBox:~$  cd mentors
+student@Ubuntu-MySQL-VirtualBox:~/mentors$ touch mentors_list.txt
+student@Ubuntu-MySQL-VirtualBox:~/mentors$ ls
+mentors_list.txt
+student@Ubuntu-MySQL-VirtualBox:~/mentors$ cd ..
+student@Ubuntu-MySQL-VirtualBox:~$ cd students
+student@Ubuntu-MySQL-VirtualBox:~/students$ touch students_list.txt
+student@Ubuntu-MySQL-VirtualBox:~/students$ ls
+students_list.txt
+
+
+2. Открыть созданные в п.1 файлы в любом текстовом редакторе и заполнить их (в соответствии
+с названием) списком Ваших одногруппников и наставников на данном потоке.
+
+student@Ubuntu-MySQL-VirtualBox:~/students$ nano students_list.txt
+student@Ubuntu-MySQL-VirtualBox:~/students$ ls
+students_list.txt
+student@Ubuntu-MySQL-VirtualBox:~/students$ head students_list.txt
+Александр Шарафутдинов
+Алтынбек Толеу
+Антон Дубовик
+Кристина Ганская
+Марина Фетисова
+итд)
+student@Ubuntu-MySQL-VirtualBox:~/students$ cd ..
+student@Ubuntu-MySQL-VirtualBox:~$ cd mentors
+student@Ubuntu-MySQL-VirtualBox:~/mentors$ nano mentors_list.txt
+student@Ubuntu-MySQL-VirtualBox:~/mentors$ head mentors_list.txt
+Алёна Тектова
+Елена Федотова
+
+
+3. Переместите файл mentors_list.txt в папку students.
+
+student@Ubuntu-MySQL-VirtualBox:~/mentors$ cd ..
+student@Ubuntu-MySQL-VirtualBox:~$ mv /home/student/mentors/mentors_list.txt /home/student/students/mentors_list.txt
+student@Ubuntu-MySQL-VirtualBox:~$ cd mentors
+student@Ubuntu-MySQL-VirtualBox:~/mentors$ ls
+student@Ubuntu-MySQL-VirtualBox:~/mentors$ cd ..
+student@Ubuntu-MySQL-VirtualBox:~$ cd students
+student@Ubuntu-MySQL-VirtualBox:~/students$ ls
+mentors_list.txt  students_list.txt
+student@Ubuntu-MySQL-VirtualBox:~/students$ cd ..
+
+
+4. Удалите папку mentors.
+
+student@Ubuntu-MySQL-VirtualBox:~$ rm -rf mentors
+student@Ubuntu-MySQL-VirtualBox:~$ ls
+examples.desktop  Видео      Загрузки     Музыка         Рабочий стол
+students          Документы  Изображения  Общедоступные  Шаблоны
+
+
+5. Переименуйте папку students в students_and_mentors.
+
+student@Ubuntu-MySQL-VirtualBox:~$  mv students students_and_mentors
+student@Ubuntu-MySQL-VirtualBox:~$ ls
+examples.desktop      Видео      Загрузки     Музыка         Рабочий стол
+students_and_mentors  Документы  Изображения  Общедоступные  Шаблоны
+
+
+
+6. Удалите папку students_and_mentors вместе с содержимым.
+
+student@Ubuntu-MySQL-VirtualBox:~$  rm -rf students_and_mentors
+student@Ubuntu-MySQL-VirtualBox:~$ ls
+examples.desktop  Видео  Документы  Загрузки  Изображения  Музыка  Общедоступные  Рабочий стол  Шаблоны
+
+
+7. Подключитесь к машине с Linux по протоколу SSH.
+
+Microsoft Windows [Version 10.0.19044.1826]
+(c) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
+
+C:\Users\Катя>ssh student@192.168.1.79
+The authenticity of host '192.168.1.79 (192.168.1.79)' can't be established.
+ECDSA key fingerprint is SHA256:7qWPIG+If3sr44sVZY7eK6L29Fe93eiVkSRpR+8tp+Y.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added '192.168.1.79' (ECDSA) to the list of known hosts.
+student@192.168.1.79's password:
+Welcome to Ubuntu 16.04.6 LTS (GNU/Linux 4.15.0-47-generic x86_64)
+
+Documentation: https://help.ubuntu.com
+Management: https://landscape.canonical.com
+Support: https://ubuntu.com/advantage
+Могут быть обновлены 467 пакетов.
+405 обновлений касаются безопасности системы.
+
+Last login: Mon Apr 22 18:52:20 2019 from 192.168.1.117
+student@Ubuntu-MySQL-VirtualBox:~$ ls
+examples.desktop Документы Изображения Общедоступные Шаблоны
+Видео Загрузки Музыка Рабочий стол
+student@Ubuntu-MySQL-VirtualBox:~$
+                                                          
