@@ -1,0 +1,204 @@
+* Формат .txt а не .sql тк решала эти задания через Linux
+
+1. Установите СУБД MySQL. Создайте в домашней директории файл .my.cnf, задав в нем логин
+и пароль, который указывался при установке.
+
+student@Ubuntu-MySQL-VirtualBox:~$ sudo mysql_secure_installation
+
+Securing the MySQL server deployment.
+
+Enter password for user root: 
+
+VALIDATE PASSWORD PLUGIN can be used to test passwords
+and improve security. It checks the strength of password
+and allows the users to set only those passwords which are
+secure enough. Would you like to setup VALIDATE PASSWORD plugin?
+
+Press y|Y for Yes, any other key for No: n
+Using existing password for root.
+Change the password for root ? ((Press y|Y for Yes, any other key for No) : y
+
+New password: 
+
+Re-enter new password: 
+By default, a MySQL installation has an anonymous user,
+allowing anyone to log into MySQL without having to have
+a user account created for them. This is intended only for
+testing, and to make the installation go a bit smoother.
+You should remove them before moving into a production
+environment.
+
+Remove anonymous users? (Press y|Y for Yes, any other key for No) : n
+
+ ... skipping.
+
+
+Normally, root should only be allowed to connect from
+'localhost'. This ensures that someone cannot guess at
+the root password from the network.
+
+Disallow root login remotely? (Press y|Y for Yes, any other key for No) : n
+
+ ... skipping.
+By default, MySQL comes with a database named 'test' that
+anyone can access. This is also intended only for testing,
+and should be removed before moving into a production
+environment.
+
+
+Remove test database and access to it? (Press y|Y for Yes, any other key for No) : n
+
+ ... skipping.
+Reloading the privilege tables will ensure that all changes
+made so far will take effect immediately.
+
+Reload privilege tables now? (Press y|Y for Yes, any other key for No) : y
+Success.
+
+All done! 
+student@Ubuntu-MySQL-VirtualBox:~$ sudo mysql -u root -p
+Enter password: 
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 20
+Server version: 5.7.25-0ubuntu0.16.04.2 (Ubuntu)
+
+Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '******';
+Query OK, 0 rows affected (0,00 sec)
+
+mysql> FLUSH PRIVILEGES;
+Query OK, 0 rows affected (0,00 sec)
+
+mysql> CREATE USER 'user'@'localhost' IDENTIFIED BY '******';
+Query OK, 0 rows affected (0,01 sec)
+
+mysql> GRANT ALL PRIVILEGES ON *.* TO 'user'@'localhost' WITH GRANT OPTION;
+Query OK, 0 rows affected (0,00 sec)
+
+mysql> exit
+Bye
+
+student@Ubuntu-MySQL-VirtualBox:~$ nano .my.cnf
+--
+[mysql]
+user=root
+password=******
+--
+
+student@Ubuntu-MySQL-VirtualBox:~$ mysql
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 21
+Server version: 5.7.25-0ubuntu0.16.04.2 (Ubuntu)
+
+Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> 
+
+
+
+2. Создайте базу данных example, разместите в ней таблицу users, состоящую из двух
+столбцов, числового id и строкового name.
+
+mysql> CREATE DATABASE example; 
+Query OK, 1 row affected (0,27 sec)
+
+mysql> USE example;
+Database changed
+mysql> CREATE TABLE user (id INT, name TEXT);
+Query OK, 0 rows affected (0,14 sec)
+
+mysql> DESCRIBE user;
++-------+---------+------+-----+---------+-------+
+| Field | Type    | Null | Key | Default | Extra |
++-------+---------+------+-----+---------+-------+
+| id    | int(11) | YES  |     | NULL    |       |
+| name  | text    | YES  |     | NULL    |       |
++-------+---------+------+-----+---------+-------+
+2 rows in set (0,00 sec)
+
+
+
+
+3. Создайте дамп базы данных example из предыдущего задания, разверните содержимое дампа
+в новую базу данных sample.
+
+mysql> CREATE DATABASE sample;
+Query OK, 1 row affected (0,00 sec)
+
+mysql> exit
+Bye
+student@Ubuntu-MySQL-VirtualBox:~$ mysqldump -u root -p example > example.sql
+Enter password: 
+student@Ubuntu-MySQL-VirtualBox:~$ ls
+dz4  dz6               example.sql  Документы  Изображения  Общедоступные  Шаблоны
+dz5  examples.desktop  Видео        Загрузки   Музыка       Рабочий стол
+student@Ubuntu-MySQL-VirtualBox:~$ mysql
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 25
+Server version: 5.7.25-0ubuntu0.16.04.2 (Ubuntu)
+
+Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> USE sample
+Database changed
+mysql> SHOW TABLES;
+Empty set (0,00 sec)
+
+mysql> exit
+Bye
+student@Ubuntu-MySQL-VirtualBox:~$ mysql sample < example.sql
+student@Ubuntu-MySQL-VirtualBox:~$ mysql
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 27
+Server version: 5.7.25-0ubuntu0.16.04.2 (Ubuntu)
+
+Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> USE sample
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+mysql> SHOW TABLES
+    -> ^C
+
+^C
+mysql> SHOW TABLES;
++------------------+
+| Tables_in_sample |
++------------------+
+| user             |
++------------------+
+1 row in set (0,00 sec)
+
+mysql> exit
+Bye
+
+
+
+
