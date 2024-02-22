@@ -1,0 +1,500 @@
+0	: Na 130 on 7/21/1999Pertinent Medical Review of Systems Constitutional:
+1	"""Hx of suicidal ideation and last felt suicidal in Marc, 1981. No Hx of suicide attempts. ""Felt that after being sober for 5 years and in custody for 22 months that I just wasn't getting it. I couldn't do it. He had my parents come in the following week and we talked and that's when we decided I should go on the methadone clinic,""Hx of Non Suicidal Self Injurious Behavior: No"
+2	s 03/1980 Positive PPD: treated with INH for 6 months
+3	: 7/11/90CPT code: 99205
+4	: 6/02/1986CPT Code: 90792: With medical services
+5	s  25 yo married female with hx of low grade anxiety, perfectionism and attention presents with increasing sx of depression after being laid off from her job in Mar 2012. This intake interview was conducted as a one time consult intake with the goal of referral to appropriate services.
+6	: 6/18/85Primary Care Doctor:
+7	: NV fire fighter died Sep 2007 while working.  Was friend from deployment to San Marino and trainings for years prior.  Still troubling to pt.  Didn't go to his funeral.  Spiritual/Religion:
+8	"sDec 1975:  ""Several days"", LEPROSARIUM, voluntary admission for acute manic episode with ? delusions.  Discharged on risperidone to follow up with Dr. Dodge in Ayer.Hx of Outpatient Treatment: Yes"
+9	: craniotomy 8/1986Prior relevant labs:
+10	. 3 years ago in a motorcycle accident and had a TBI - in Japan. Migraines 15-30 days a month since March 1979. Occipital nerve block shots and migraines have resolved.
+11	: 9/17/72Primary Care Doctor:
+12	.On 06 Oct 2003 patient sought attention of CMC PCP Dr. Nevarez, who consulted  Grandview Sanitarium, obrained consultation from this psychiatrist, who considered SSRI 'poop out' and suggested swtich from paroxitine to fluoxetine.
+13	: 11/24/94SOS-10 Total Score:
+14	: Father died in November 1987Spiritual/Religion:
+15	: 8/16/92SOS-10 Total Score:
+16	: 12/12/97Communication with referring physician?: Done
+17	: normal vaginal delivery (9/30/76)Problems Family history : Family History Mother: 45 alive DIABETES, not overwgt on oral agents Father: 60 alive HEALTHY Sibling 1: alive 1 BROTHER, HEALTHY Sibling 2: alive 1 SISTER, HEALTHY Other relative: alive HUSBAND HAS A STOMACH PROBLEM; HUSBAND'S PARENTS & 6 SIBLINGS ARE HEALTHY. pat gma and gpa died mva; mat gma 90, mat gpa died ? cause
+18	: see above and APS eval of 26 May 2010Education Education Level: College Grad
+19	ssince June 1981 - (first) trial of psychotherapy with Carol Shaw, PhDCurrent Therapist Name(s) and Phone #(s):
+20	4ectopic pregnancy in March 1973Pertinent Medical Review of Systems Sexual (include birth control method if used):
+21	: 12/8/97SOS-10 Total Score:
+22	: 09/13/94CPT Code: 90791: No medical services
+23	sChesterfield 9/1984 for 3 weeks for dual diagnosis alcohol and PTSDHx of Outpatient Treatment: Yes
+24	: 4/18/86SOS-10 Total Score:
+25	.2/14/77  MRI stable treated meningiomas, and necrosis and surgical changes (precentral gyrus)
+26	s Mitral valve prolapse : nl echo MBC 7/13/97; EF 60%, mild LVH, nl valves, trace MR, TR. PASP 43.
+27	e Mr. Oliveira reported a long history of alcohol problems which worsened after he lost his job in Apr 2007.
+28	: 4/12/88Other Adult Mental Health Outcomes Scales Used:
+29	)-Continue Gabapentin 300mg HS for sleep, anxiety (next refill 6/10/71)
+30	s Medications Adderall Xr (AMPHETAMINE/DEXTROAMPHETAMINE Xr) 10 MG (10 MG CAP ER 24H Take 1) PO QAM, fill on: 12/12/1993 x 30 days; No Change
+31	. Went to Emerson, in Newfane Alaska. Started in 2002 at CNM. Generally likes job, does not have time to do what she needs to do. Feels she is working more than should be.
+32	: 3/26/81CPT Code: 90801 - Psychiatric Diagnosis Interview
+33	"dMarried for almost 20 years with ""upcoming anniversary in Aug 2010""Does patient have any children: Yes"
+34	: 8/2010 QTc 433 ms.Pertinent Medical Review of Systems Constitutional:
+35	".   Of note Ms. Quackenbush did not mention that she had been followed by a psychiatrist at Hamilton or at BHCMH.  Per Dr. Quillin at BHCMH who last saw the patient 10/6/79, ""differential dx includes depression, hypomania, ADHD and neuropsychiatric sequelae of cerebral vascular disease...having a positive response to wellbutrin/provigil (arguing for executive dysfunction and against recent hypomania).  She continued to have supportive counseling with Ms. Etheridge, SW at BHCMH and was managed wtih antidepressants and she has been continued on both Wellbutrin and Provigil and was noted to have some disorganization at home.  No family history of mood or anxiety disorder.  She has no current depression or anxiety symptoms by her report but does have some neuroveg s/s of depression, trouble falling asleep, low energy and low concentration."
+36	: 8/31/77Total time of visit (in minutes):
+37	shx of TBI (1975) ISO MVA.Medical History:
+38	: 9/09/94Total time of visit (in minutes):
+39	: 12/1975Primary Care Doctor:
+40	: 9/21/79CPT Code: 90801 - Psychiatric Diagnosis Interview
+41	: 3/18/80Total time of visit (in minutes):
+42	.Mother died, 1/1983.
+43	: Pt is a 78 yo widowed WF with long hx of recurrent depression and multiple chronic psychosocial stressors who is being referred by Hector Ring, MD (ITM) for OP individual CBT based therapy to provide coping tools to target most recent depressive episode with onset about a month ago. She is not currently receiveing psychotropic medication as CBT was recommended by Dr. Ring over medication intervention during ITM evaluation 8/30/77.
+44	".4/1972:  Hx panic attack:Went to (ex-)BFs house, with her friends.  Unfamiliar people were present - invited by BFs friend.  ""Weird vibes.""  The episode of acute anxiety followed:"
+45	: 05/12/1995SOS-10 Total Score:
+46	: Brain MRI no mets 6/08/90Allergies CLARITHROMYCIN - GI Upset : Reflux
+47	s 63 yo female with pertinent medical hx of osteoporosis and psychiatric hx of major depressive episode who is referred urgently from PCP for continued assistance with depressive sxs while awaiting appt with Dr. Zamudio 2/9/2008Suicidal Behavior Hx of Suicidal Behavior: No
+48	:  Primary renal disease- magnesium and calcium wasting leading to severe nephrocalcinosis. G20D homozygous missense mutation of the protein Claudin-19. Date of Transplant -08/21/77. LRD - Mom was donor. Axis IV: Educational problems
+49	: Chronic Back Pain s/p Lumbar ESI 1/27/98
+50	: 5/02/82 230pmCommunication with referring physician?: Done
+51	: 3, 2/18/79Audit C Score, Highest/Date:
+52	: July 25, 1983Total time of visit (in minutes):
+53	sApproximately 7 psychiatric hospitalizations starting Humana Hospital-Augusta (Alabama) at age 12, most recently 1-month residential program at Jefferson County Health Department in August 1979 but left AMA
+54	: 10/11/1987CPT Code: 90791: No medical services
+55	: 10/17/1980CPT Code: 90792: With medical services
+56	7intake for follow up treatment at Anson General Hospital on 10 Feb 1983 @ 12 AM
+57	r      head CT of 5/18/2013.
+58	: per mother (from Roselie Irwin evaluation on 1/02/80): h/o Speech  language delay, limited vocabulary at 24 mths.  Struggled socially related to speech  language difficulties.  Family history and relationships:
+59	: 08/24/2011Total time of visit (in minutes):
+60	sfirst and only hospitalization on Enloe Hospital-discharged on 1/29/79Hx of Outpatient Treatment: Yes
+61	) 59 yo unemployed w referred by Urgent Care for psychiatric evaluation and follow up. The patient reports she has been dx w BAD. Her main complaint today is anergy. Ms. Hartman was evaluated on one occasion 5/21/77. She was a cooperative but somewhat vague historian.History of Present Illness and Precipitating Events
+62	: performed MOCA on 2/12/79: 21/30Tests reviewed:
+63	: 9/08/78CPT Code: 90801 - Psychiatric Diagnosis Interview
+64	)Norvasc (AMLODIPINE) 5 MG (10 MG TABLET Take 0.5) PO QD; No Change (Taking), Comments: 7/9/81 decreased to 5mg qd by Dr. Hartman
+65	: father died suddenly in January 2013Meaningful activities/supports:
+66	a Saddle PE January 2007
+67	: 9/04/85SOS-10 Total Score:
+68	: 7/1989Communication with referring physician?: Done
+69	"s Mr. Echeverria is a 51 year old married man s/p completion of chemo/radiation treatment for HPV+ stage IVa T2N2bM0 squamous cell carcinoma of the left tonsil who presents with symptoms of anxiety of 5 months duration. Pt reports having persistent fears of experiencing an ""anxiety attack"", and at the date of this visit indicated that he had experienced multiple (3+) episodes of acute anxiety since beginning his cancer treatment in February 1985. Notably, these episodes have punctuated his overall feelings of being ""more anxious in general"" during the past 5 months."
+70	: TSH 0.67 5/2000Prior EEG:
+71	sOne prior voluntary hospitalization in 09/1975 for depression on Psychiatry. Hx of Outpatient Treatment: Yes
+72	". Per APS: ""On evaluation, patient notes life-long h/o anxiety, that often worsens in the setting of changes in her personal life. Recently she notes she has been working more, and also that she found out that her ex-boyfriend has been seeing someone new. She also describes recurrent issues with medications (mood lability, sedation, etc), and that recently her buspirone has been titrated up to 30mg (from 20mg QHS). She does note some ""fogginess"" in this context as a most prominent side effect. Mood has been ""all over"" and she denies consistent and persisting 2+ weeks of primarily depressive or elevated mood. She does have days when she feels depressed, which she attributes to anxiety. On those days, her sleep will be poor (often wakes up early with severe anxiety), appetite is poor (she may vomit when stressed), interests/energy can be poor. No frank anhedonia, or guilt noted. When acutely anxious she can feel so overwhelmed that she feels hopeless. Panic attacks in addition to daily anxiety noted. She describes last such episode last night, eventually culminating in such severe mood lability that she thought fleetingly of overdosing on medications. She was afraid of these thoughts, and strongly denies wanting to overdose or actual intent. She told her friend/roommate, and also told her therapist in the am, which eventually prompted her presentation here. She currently denies all SI/intent or plan, and finds she can continue to do well in the outpatient setting. She is amenable to outpatient supports, including referral to urgent care clinic here for bridge appts and/or PHP/IOP through Medial. Collateral obtained from patient's therapist (979-538-7726) - she confirms the history as noted above. She saw the patient for follow up today, and encouraged her to self-present to the ED for safety evaluation. She does not find that patient would likely act on her SI, but does agree that she'd likely benefit from increased outpatient supports. Confirmed w the therapist that the patient is losing access to her psychiatrist and has no f.u scheduled. Also, the therapist raised some concern whether the mood lability may be due to recent up titration of buspirone. She can see the patient on 8/17/79 at 3pm or 7pm. """
+73	: 08/03/1988Other Adult Mental Health Outcomes Scales Used:
+74	: 05/14/81Primary Care Doctor:
+75	: 6/18/73SOS-10 Total Score:
+76	: 2008 partial thyroidectomy
+77	: see Dr. Peterson's note 10/23/73Current Therapist Name(s) and Phone #(s):
+78	: 7/26/92Total time of visit (in minutes):
+79	: May, 2004Hx of Brain Injury: No
+80	: see 21 Oct 1978 Schroder Hospital discharge summaryHx of Non Suicidal Self Injurious Behavior: Yes
+81	: 5/19/92 @7am [report_end]
+82	: 3/21/86CPT Code: 90801 - Psychiatric Diagnosis Interview
+83	: 6/08/89Communication with referring physician?: Done
+84	: 8/02/95 at 9:30 AM at Johnson HospitalCommunication with referring physician?: Done
+85	2June, 1999Audit C Score Current:
+86	: 02/08/88CPT Code: 90792: With medical services
+87	: 5/10/81Total time of visit (in minutes):
+88	: 11/09/98CPT Code: 90792: With medical services
+89	.She saw a counselor in high school about her drinking in high school, and in college.  Was a period in college where she decided to leave college - felt liek the palce was too big, lost - felt depressed after she left.   therapist told her when she was 20 that she wasn't built to drink alcohol so she quit (she was taking risks that would horrify her as a mother).  She thinks she may be alcoholic, last drink was October 14 1974 - except once- feels not an effort.  Felt better after 20. Had various jobs, got involved in jobs, did flower arranging job (family business)
+90	: 7/02/87Primary Care Doctor:
+91	: 8/18/1995CPT Code: 90791 - Psychiatric Diagnosis Interview
+92	HEP Clinic for seven years,  Xavier Jung phone 364-163-3443 and faxed release 518-893-5533 (see Emma Jaworski note on 2/1998Psychiatric Review of Systems DEPRESSION: Has the patient had periods of time lasting two weeks or longer in which, most of the day on most days, they felt little interest or pleasure in doing things, or they had to push themselves to do things: Yes
+93	: (01/06/85) Score-0Caffeine / Tobacco Use Smoker Status: Never smoker
+94	sSep 1983 GSW to face (L-TMJ region), ? gang related, with L-CN VII injury and ? TBI, requiring plastic surgical reconstructionActivities of Daily Living (ADL) Bathing: Independent
+95	.  Alvarado Medical Center - Jan 1987 : worsening psychosis and mania (impulsivity of going to Pompeii, grandiosity in wanting to send script to famous playwright, increased painting activity, maxed out credit card, decreased sleep) Hx of Outpatient Treatment: Yes
+96	: Future-oriented; recent increase in hope; in supportive committed relationship; connected to several close friends; has supportive family; recently employed; seeking treatment; excited about being a father (May 1990); resilient; benefitted from TBI treatment in pastModifiable risk factors:
+97	sWas on lexapro and strattera with good result but taken off both in Dec 2007 because of  familial prolonged QTc  syndrome with mutation on gen KCNQ1 and need for anaesthesia for wisdom teeth.
+98	: 2 on 5/18/91Audit C Score Current:
+99	: 6/21/75Communication with referring physician?: Not Done
+100	: 3/18/87SOS-10 Total Score:
+101	: 01/06/89Age:
+102	: 07/02/1990CPT Code: 90791: No medical services
+103	s Currently in Clinica Perea (residential living program for women with SUD), started at Clinica Perea on 4/22/94, has found program helpful for flexibility.  Attending house meetings and self help meetings outside house.  Will continue to be in the house until CPS says she can leave.  Pt is proud of the work she has done, hopeful that things will improve and get better.  Very motivated to spend time with son and fix relationship with boyfriend.
+104	: Ms. Keller is a 62-year-old woman with a history of bipolar affective disorder, type 1, numerous prior hospitalizations (most recently in August 1984 at Seaside), five prior suicide attempts by overdose, significant history of abuse and trauma, and medical history of rheumatoid arthritis, Sjogren's disease, hypertension, and hyponatremia, who presents for continued management of her psychiatric medications.  On our initial meeting she appears hyperthermic but consistent with her baseline per signout from previous treaters.  Her history is consistent with bipolar disorder with psychotic features vs. schizoaffective disorder, bipolar type.  Although she is at chronically elevated risk for self-harm given her previous suicide attempts, severe mental illness, impulsivity, and personality vulnerabilities, she currently appears to be at her baseline and these risk factors are mitigated by her help-seeking behavior, close support from a multidisciplinary team, plan for individual dispensation of medications by her VNA, and safety plan.  She is therefore appropriate for continued outpatient treatment.Substance Use Intervention Action Plan: None needed
+105	sOne week Memorial Psychiatric Hospital Oct 2014, feels triggered by distress with mother as had stopped and felt depressed 2 months with sucidal ideation. Does not have records but responded well and told PTSD main diagnosis. Depression lifetd with treatment
+106	: 10/1978Communication with referring physician?: Done
+107	: 05/07/1975CPT Code: 90801 - Psychiatric Diagnosis Interview
+108	: 8/29/74Primary Care Doctor:
+109	. Patient presents with GAD flareup in Jul 2003 in setting of extended hospital ED visit for symptoms of panic attack with cardiac and neuro testing, which have responded poorly to trials of lorazepam, clonazepam and CBT; trials marked by poor adherence, as well as poor tolerance of low dose paroxetine.
+110	: 1. senior in college, age 21 in Alaska, started on zoloft w/o effect then on prozac for three years for MDD/eating d/o sxs with ?helpfulness (during this three year period, he used then effexor for short term; was in therapy with Virginia Xiang, MD in Federalsburg for 1.5 years until insurance change in October, 1977Does patient feel that prior treatment was helpful: Sometimes
+111	.  Sloan continued to do well thereafter with a remission of her depressive and BN symptoms until September 2006, when she experienced recrudescence of binge/purge cycles in the setting of one of her jobs terminating.  She subsequently entered the Educare-Fargo IOP and began CBT-E booster sessions with Dr. Ellis.
+112	: 12/29/1982SOS-10 Total Score:
+113	. 03/20/83: R lumpectomy with sentinel node biopsy. Confirmed 0.9x0.9x0.8 cm grade 3 (poorly differentiated) invasive ductal carcinoma with no LVI, clear margins 0/3 lymph nodes positive. Scant area of ductal carcinoma in-situ.
+114	: MRI May 30, 2001 empty sella but no problems with endocrine functionPertinent Medical Review of Systems Constitutional:
+115	: 6/10/79CPT Code: 90791: No medical services
+116	": Pt describes a suicide attempt by OD in April 2014. ""I think it was more of a cry for help.""Hx of Non Suicidal Self Injurious Behavior: No"
+117	: 12/16/80Age:
+118	: 3/22/93CPT Code: 90792: With medical services
+119	.b. patient to call Lancaster General Hospital on 10/3/77 for further instructions for solely outpt. ECT inc. med' mgmt (n.b.: pt. on Depakote and anthihyperstensives) inc. directions from Dr. Villegas for med' changes pre-op.
+120	: 3/09/1979Total time of visit (in minutes):
+121	: 7/17/82CPT Code: 90792: With medical services
+122	xJan 2015: developed pain related to her scapula - a work up suggested marrow aplasia of the left clavicle and a possible soft tissue mass and path fracture of the clavicle. Bone and soft tissue resection was negative for malignancy.
+123	: score on 9/20/84 4Audit C Score Current:
+124	: 8/26/89CPT Code: 90791: No medical services
+125	sPhoenix Medical for detoxification in May 1999Hx of Outpatient Treatment: Yes
+126	)Protonix (PANTOPRAZOLE) 40 MG (40MG TABLET DR Take 1) PO QD x 30 days; No Change (Taking), Comments: 7/30/84 Rx faxed to DRS Pharm ATGLEN
+127	: Thayer Hospital, February 2003Hx of Outpatient Treatment:
+128	: 11/07/91SOS-10 Total Score:
+129	.02/03/90 resumed diazepam and started Risperdal.  Reports feeling better.  Cont c/o low energy and difficulty motivating to complete ADLs.  More relaxed.  Sleeping better. Tried to get care, but c/o waiting list of a year at South Barlett.  Reports she was in therapy, but felt she needed medicine.  Reports difficulty sleeping as an ongoing concern.  Tried tylenol PM, but c/o tachycardia.  Sleeping 6hrs, dreams of father.  Hears his voice at times, notes similar, but less intense when mother passed.  Feels anxiety level remains problematic, but more manageable with medicine.  Reports decreased energy, motivation, poor concentration.
+130	: 5/10/83CPT Code: 90791: No medical services
+131	: (3/10/71) TSH-2.83; Activities of Daily Living (ADL) Bathing: Independent
+132	: 07/17/92CPT Code: 90791: No medical services
+133	: will get from prevous PCP done in May 1974, reportedly wnlIs the patient being referred for further medical or neurological assessments (Please specify): No
+134	: 4/23/93Total time of visit (in minutes):
+135	: TSH in 5/1977 okayPertinent Medical Review of Systems Constitutional:
+136	: Suicidal thoughts when a freshman in high school in the context of parents divorce and again in February 1981.  No h/o SA. Hx of Non Suicidal Self Injurious Behavior: No
+137	: 01 Oct 1979Primary Care Doctor:
+138	".             Pt hit her head on the cement while roller scating (at age 9 or so), unsure if she was unconscious, was confused. She had PTA of minutes to hours. After puberty, she started experiencing feelings of interuption, the wall might look disproportionate to the hallway and I would feel nauseous, and it would pass, it would last 30 seconds. At the age of 17 she was disoriented, was taken to a hospital, diagnosed with seizures. Put on Dilantin and Tegretol, became violent until their levels were adjusted. After being on AEDs for years and being seizure free, she was taken off medications. Her more recent history re: seizures and recommendations are summarized in [Dr. Lozano's note of 7/1974]."""
+139	: 2/12/81Total time of visit (in minutes):
+140	: 09/19/81CPT Code: 90792: With medical services
+141	: 02/07/80Other Adult Mental Health Outcomes Scales Used:
+142	: (1/24/74) CT of Brain: There are postoperative findings related to right frontoparietal craniotomy and cranioplasty. There is been interval removal of the surgical drain and resolution of postoperative air. The previously seen extra-axial blood products beneath the cranioplasty have resolved. There is a minimal residual hypodense collection beneath the cranioplasty measuring 3 mm in maximal thickness.
+143	") ""I've been seeing a private psychologist since January, 2015, and doing neurofeedback. Graphs show progress but I haven't seen any alleviation of symptoms."" History of Present Illness and Precipitating Events"
+144	: denies suicidal or self injurious thoughts or behaviors since Aug 2007
+145	: (6/24/87) TSH-2.18; Activities of Daily Living (ADL) Bathing: Independent
+146	: 5/13/93CPT Code: 90791: No medical services
+147	: -Prostatectomy, 7/25/72Activities of Daily Living (ADL) Bathing: Independent
+148	: 08/1977Primary Care Doctor:
+149	ssomething related to hypnosis, Pt unable to explain, medical record indicates when Pt presented in June 2007 to ED her speech was nonsensical but she was reporting some type of hypnosis eventGAD: Has the patient had times when they worried excessively about day to day matters for most of the day, more days than not: No
+150	: 7/31/96
+151	: 2/26/77CPT Code: 90791: No medical services
+152	: 9/14/93Communication with referring physician?: Not Done
+153	. Inhaled helium - August 2009 Hx of Non Suicidal Self Injurious Behavior: Yes
+154	: B/R Natchez, GA on a commune. Completed 1 year of medical school. Married to husband for 50+ years. Moved to Maine and later settled in West Hurley, AK. HAs 2 children and 5 grandchildren. Worked as notary public for the local government for over 50 years. Husband now in nursing home and she has moved in with her daughter's family in Emerald Isle, AK as of Jan 2009. No access to firearms. Past verbal, emotional, physical, sexual abuse: No
+155	e Pace Maker placed 10/2010
+156	: Patient was born and raised in Cleveland, WA. He is the youngest sibling of two sisters and two brothers (one brother died due to substance use complications). Patient's mother died October 1999. Patient's father died when the patient was ten years old due to leukemia. Patient considers himself close with his siblings. Social History Marital Status: Married
+157	: 7/27/96CPT Code: 90801 - Psychiatric Diagnosis Interview
+158	: 08/11/78CPT Code: 90801 - Psychiatric Diagnosis Interview
+159	nPsychiatrist, Dr. Larry Padilla; saw once per month, last seen 9/1977 (saw for approximately 1 year); pt not willing to sign release at present; also another psychiatrist just prior to Dr. PadillaPrior medication trials (including efficacy, reasons discontinued):
+160	.Iredell Memorial Hospital, February 2000, after suicide attempt by cutting.Hx of Outpatient Treatment: Yes
+161	sSince 1998. Prior medication trials (including efficacy, reasons discontinued):
+162	"s Ms. Urie is 51 yo married mother of 1 who has triple negative invasive ductal ca of R breast s/p bil mastectomies(11/21/95) wth recomstruction receiving adj dose dense adriamycin and cyclophosphamide.  She is referred for psych onc evaluation because she had been prescribed ATivan 0.5 mg bid for anxiety when diagnosed and had been taking it regularly until 4 weeks ago when missed 2 doses and got very irritable. So wondered if she was ""addicted"" and may need another medication for anxiety."
+163	: TSH okay in 2015Prior EKG:
+164	: 12/06/2004Family Psych History: Family History of Suicidal Behavior: None
+165	.Residential hospitalization at Windsor Hospital in June 2010Hx of Outpatient Treatment: Yes
+166	)Ciprofloxacin 250 MG (250 MG TABLET Take 1) PO BID, for 7 days x 7 days; No Change (Taking), Comments: efaxed 09/22/91
+167	nPt denied use to me but endorsed use on 10/16/78 as part of BVH initial visit summary supplement by Nicholas BenjaminCaffeine / Tobacco Use Packs per day:
+168	: 3/2/91SOS-10 Total Score:
+169	: 4/26/85CPT Code: 90801 - Psychiatric Diagnosis Interview
+170	: 01/28/2010Communication with referring physician?: Not Done
+171	: 9/3/71 [report_end]
+172	: 11/03/94CPT Code: 90801 - Psychiatric Diagnosis Interview
+173	: 30 May 2001CPT Code: 90801 - Psychiatric Diagnosis Interview
+174	: 10/29/91Communication with referring physician?: Done
+175	s She feels anxious in the morning and later in the day feels exhausted in the early afternoon, and then has to take a nap. She is on disability because she kept on feeling worse and could no longer work as an Archive Manager. She has been on disability since Aug 1982. Her deep depression prevents her from functioning. She was diagnosed as bipolar II because of sudden rages - she gets depressed, frustrated, feels like she is unable to take it anymore, blows up (e.g. throws things) and then might cry for hours. During extended periods of feeling irritable (can last for days), she also have distractability and racing thoughts, but no euphoria, decreased sleep, increased talkativeness, no increase in goal directed activity, and no excessive involvement in risky activities.
+176	: 06/12/95CPT Code: 90791: No medical services
+177	: 05/03/84CPT Code: 90791: No medical services
+178	: 4/5/92SOS-10 Total Score:
+179	: Holter monitor 12/10/97: WNL Pertinent Medical Review of Systems Constitutional:
+180	.In June 1999
+181	: 08/13/89SOS-10 Total Score:
+182	: 3/13/86CPT Code: 90801 - Psychiatric Diagnosis Interview
+183	: 1979Family Psych History: Family History of Suicidal Behavior: None
+184	: 1/19/97Primary Care Doctor:
+185	: See initial PROMPTCARE evaluation from 3/1986 for more complete informationSocial History Marital Status: Single
+186	: 05/09/1994 [report_end]
+187	: 7/11/71SOS-10 Total Score:
+188	9Hoffman Clinic October 1973
+189	: 8/06/83CPT Code: 90791: No medical services
+190	: 4/5/81Primary Care Doctor:
+191	hFeb 1992 Sweetwater s/p SA
+192	: 11/17/85Communication with referring physician?: Done
+193	]Date/Time of Encounter:04/08/83 17:17 [hpp2]
+194	% 10/1993 Echo: LVEF 60%
+195	6ITM psychopharm eval with Dr. Ring 8/30/92 (no medication recommended)Prior medication trials (including efficacy, reasons discontinued):
+196	.  10/1976: Hx sad mood, anhedonia, hypersomnia, difficulty staying asleep, low energy, +low self-esteem.  Asc'd significant impairment and are not due to a medical condition or substance.
+197	: 4/19/72SOS-10 Total Score:
+198	: 11/13/1980 [report_end]
+199	: 9/5/76CPT Code: 90791: No medical services
+200	: 1-14-81 Communication with referring physician?: Done
+201	: 8/08/92Communication with referring physician?: Not Done
+202	. In Feb 1978, misdxed with STD- had plan to O/D on painkillers, but never did it. Hx of Non Suicidal Self Injurious Behavior: No
+203	: 5/24/71SOS-10 Total Score:
+204	: 4/03/94SOS-10 Total Score:
+205	: consulted on case with Dr Nutt 9/23/84. Additional consulation to follow as needed. LMR notes per PCP and Dr Nutt, Dr Null reviewed in the preparation of this report. [report_end]
+206	.Nov 2007- Evaluation and treatment at CH ED/APS for acute alcohol and medication OD, with history of depression relapse and alcohol abuse PRIOR TWO WEEKS due to financial stress when she lost some Meteorological Technician work.  Discharged to detox and follow up with Fresenius Medical Care Center.
+207	ymethylprednisolone - agitation, paradoxical dyspnea : 8/2005
+208	: Lab  09/28/2013: B12 610, TSH 1.16, Hct 37.Impression Formulation:
+209	: Dec 1991Primary Care Doctor:
+210	: 9/02/95Total time of visit (in minutes):
+211	: 11/27/71CPT Code: 90801 - Psychiatric Diagnosis Interview
+212	)- Buspirone: 5mg BID: October, 1984: self-discontinued due to side effects (reported mood lability)
+213	: 3/12/78CPT Code: 90792: With medical services
+214	.10 Sep 2004 - Intake at EEC for IOP but did not follow up
+215	: 4/13/81Communication with referring physician?: Not Done
+216	: 2/28/75Other Adult Mental Health Outcomes Scales Used:
+217	: 9/5/84 = 3Relevant Drug History:
+218	"""Tapered off Xanax in 2/1974"
+219	: 6/21/85CPT Code: 90801 - Psychiatric Diagnosis Interview
+220	: 2/17/74SOS-10 Total Score:
+221	": Was ""average"" student.  ""I didn't have too many friends at home at school, and was picked on a bit in school.""  Went to college and really enjoyed, made good friends, still close with some of them.  Went to 6 year college/engineering program.  Has been employed f/t as materials engineer since graduated in 1987.Family history and relationships:"
+222	: RTC 10/17/98Communication with referring physician?: Not Done
+223	dED Dismissal Date Time:       04/08/98 17:54
+224	: (11/09/81) Score-0Caffeine / Tobacco Use Smoker Status: Never smoker
+225	: 05-25-98Communication with referring physician?: Not Done
+226	: 10/12/92Total time of visit (in minutes):
+227	2Last time received treatment was from a life coach (through PCP): started Apr, 1998 - present. Phone meetings every 2 weeks.
+228	: Alcoholic - sober since June 1983
+229	: 2/14/97Other Adult Mental Health Outcomes Scales Used:
+230	: 7/07/75Other Adult Mental Health Outcomes Scales Used:
+231	". Patient primary concern is related to a TBI experienced at bootcamp in 01/2007. He reports a fellow army recruit sucker punched him from behind and knocked him out immediately. He is not sure how long he was out for but the next thing he remembers he was in the ambulance going to the hospital. He reports problems since that time although it was hard to get a sense of the specific symptoms he is experiencing. He reports he tends to wake up in the middle of the night and feels like he is having a seizure and can't control his body. He will feel disoriented at times (not completely dissociative, but feels ""weird, out of my body."" He also had headaches and feels lightheaded. He reports he has also been struggling with depression since the incident where he will have good days and down days. On the down days, he wants to sleep all day and not get out of bed."
+232	db. routine metabolic montoring as indicated and by 4/1979
+233	: 1/12/77SOS-10 Total Score:
+234	smotorcycle accident 8/2011Medical History:
+235	: 02/28/82CPT Code: 90801 - Psychiatric Diagnosis Interview
+236	: 10/11/97SOS-10 Total Score:
+237	.On 18 August 1975 patient presented to BH ED/APS for psychological distress over binge eating and weight concerns, as well as acknowledging chronic intermittent SI but no acute SI; otherwise good response to Abilify 20 mg QD.  Patient was discharged home to follow up with Urgent care TODAY.
+238	: 9/04/79CPT Code: 90791: No medical services
+239	: 7/13/85Total time of visit (in minutes):
+240	b fibroid tumor resection pending 1/2014
+241	: One detox hospitalization, in Feb 1998, 3 months in facility at DaphneHistory of drug use: Yes
+242	: 4/15/88Primary Care Doctor:
+243	)Levothyroxine Sodium 88 MCG PO AS DIRECTED, Medication information: unit strength: 88MCG form: TABLET 1 tablet once a day for 6 days out of the week and 1.5 tablets once a day for 1 day out of the week; No Change (Taking), Comments: 07/17/1985 rx faxed (KG)
+244	: 6/03/96CPT Code: 90791: No medical services
+245	: 9/19/2006Primary Care Doctor:
+246	y 4/1980 first seizure
+247	: 2/23/96CPT Code: 90792: With medical services
+248	: 06/1981Hx of Brain Injury: Yes
+249	. She last saw Dr. Sloan 7/1988.
+250	: 8-05-80Communication with referring physician?: Done
+251	: 10/18/95Communication with referring physician?: Done
+252	: Polyarteritis nodosa, presumed (p/w LE claudication 12/1986): improved w/ prednisone 60mg qday.  Elevated inflammatory markers, radiographic evidence of vascular inflammation on MR, but muscle biopsy and angiography negative, but has had brisk response to empiric immunosuppression
+253	.We discussed the risks, benefits, and alternatives to her current psychiatric regimen, including the possibility of no treatment or of reduced treatment.  We discussed the most common and serious potential side effects of her medications in detail, including but not limited to: the risks of metabolic syndrome, weight gain, diabetes, orthostasis, and abnormal movements with Zyprexa; the risks of abnormal movements or heart problems (QTc prolongation) with Haldol; the combined risk of dual antipsychotic therapy; the risk of sedation with Ativan (patient does not drive); and the risks of sedation, orthostasis, and hyponatremia with Trileptal.  We also specifically discussed her history of hyponatremia with Trileptal, her PCP's goal of a sodium > 125 (most recent sodium was 130 on 7/21/1997), and the possibility that we will need to change this medication if her sodium level becomes unsafe.  Ms. Keller was able to express appropriate questions consistent with an understanding of the risks, benefits, and side effects of her medications, and prefers to continue her current medication regimen for now with the possibility of changes in the future.Suicidal Behavior Hx of Suicidal Behavior: Yes
+254	dON 05 Mar 1974
+255	: 8/31/91Primary Care Doctor:
+256	: 29 Jan 1994Primary Care Doctor:
+257	: 4/28/88CPT Code: 90792: With medical services
+258	: 06/21/1982CPT Code: 90801 - Psychiatric Diagnosis Interview
+259	: 1/28/2007SOS-10 Total Score:
+260	: 08/13/1995CPT Code: 90792: With medical services
+261	ssee 21 Oct 1977 Schroder Hospital discharge summaryHx of Outpatient Treatment: Yes
+262	: 10/06/95CPT Code: 90792: With medical services
+263	: 1/19/89Communication with referring physician?: Done
+264	: 03/18/1993CPT Code: 90791: No medical services
+265	: 03/25/93Total time of visit (in minutes):
+266	: 8/12/76SOS-10 Total Score:
+267	: 1/31/2001CPT Code: 90792: With medical services
+268	"s Recently followed by Holly Kroll and seen previously by Frances Blackwell MD for PMDD in Mar 2011 and again in f/u recently. She has a reported history of recurrent major depression with 10 or more episodes  and of ""severe premenstrual mood worsening"" according to Dr Blackwell's initial consultation. She comes to this appointment for ongoing treatment."
+269	: April 17, 1992Total time of visit (in minutes):
+270	: 1/17/86Total time of visit (in minutes):
+271	s 31 yo single AA woman, HIV positive since contracting from a first BF  who knew he was positive but never told her. Stable w. undetected viral load, Has told no one (Not parents, siblings, friends) except BF of 4 yrs, fiance of 6 months who abruptly broke off the engagement 6 weeks ago and moved out of their newly purchased condo. Turns out he is having affair with married co-worker in the midst of divorce and has moved in with her. They were engaged in October 2005 with a romantic trip to Italy and a proposal on the Leaning Tower of Pisa. Reports this break up came a sa great surprise. On interview, alert, lucid, well-groomed, well-related woman with full range affect. Mood anxious, depressed. Reports occasional panic attacks. Decreased sleep (DFA),interest,energy, concentration and appetite(Has lost 15 lbs in 6 weeks, current weight at her baseline before a gain)Suicidal Behavior Hx of Suicidal Behavior: No
+272	: 11/14/85CPT Code: 90791: No medical services
+273	: 7/20/2011 [report_end]
+274	: 6/28/80CPT Code: 90791: No medical services
+275	: 06/12/94SOS-10 Total Score:
+276	: IBS, TAH/BSO 10/1/91Axis IV: Other psych/social/environmental problems; Problems with access to health care services
+277	: 08/15/82CPT Code: 90792: With medical services
+278	: 3/22/90SOS-10 Total Score:
+279	: 11/19/93Primary Care Doctor:
+280	: The pt. is a 45 Y/O F who comes in to discuss her sexual problems-low libido.  Factors to consider--long-standing problem, marital issues, recent delivery of twins 12/1978 -IVF/donor egg/breatfeeding, sexual abuse as a child age 7-?college, depressed mood (variable), hypothyroid (treated).  Pt. has almost no libido now and feels this may be impacting her marriage.  She can lubricate and get orgasm on occasion.  She has had some success with sexual fantasy in the past.  She has not followed through with a med trial of bupropion rx by Peggy Wiggins, MD because she was breast feeding at  the time.  Discussion of the complexity of the problem.  Advised she resume couple's therapy/indiv therapy or discuss with husband if he would be willing to come in for behaviorally-based sex therapy. Reading list given for her to explore options.  Med addition may be helpful to rx mood symptoms and libido (which may be low because of mood.)Patient Instructions
+281	: 6/12/71CPT Code: 90792: With medical services
+282	": July 2005 was living in FORT SMITH and ""had a break down.""  Started w break up w BF,  not sleeping regularly and eventually no sleep 3 days, d/ced meds, including Adderall and felt w/drawal and diff sleeping, stopped eating, roommates getting very worried and called parents, started getting paranoid, other delusional thinking.  Was hospitalized at least 2 weeks.  Parents came out to visit from the beginning."
+283	: 4/22/73Total time of visit (in minutes):
+284	: 9-30-82Total time of visit (in minutes):
+285	: 3/27/95Communication with referring physician?: Done
+286	: see above and APS eval of 26 May 1982Social History Marital Status: Single
+287	.Moved to USA in 1986. Suffered from malnutrition but denies physical/sexual/emotional abuse.
+288	: 5/04/2010 [report_end]
+289	aS/P suicide attempt 2011Hx of Outpatient Treatment: Yes
+290	: 8/16/97CPT Code: 90792: With medical services
+291	: 4 (8/24/78)Caffeine / Tobacco Use Caffeinated products: Yes
+292	: 9/17/90Other Adult Mental Health Outcomes Scales Used:
+293	: 12/6/93CPT Code: 90801 - Psychiatric Diagnosis Interview
+294	"s Patient is a 76-year old woman, a native Comorian speaker who presents alone for this evaluation for an apparent one-time consultation reporting that after she was hit by a car 09/22/87 she reports that she was ""dizzy, had trouble sleeping and pain.""  She reports she was referred by her PCP, Dr. Carlson, and pt. concurs that this is a one-time consulation and that this writer will speak with Dr. Carlson."
+295	: 2/06/77Primary Care Doctor:
+296	: 9/20/74Sex: Female
+297	: 9/22/82Total time of visit (in minutes):
+298	: 7/24/81CPT Code: 90792: With medical services
+299	)Simvastatin 20 MG (20MG TABLET Take 1) PO QHS; No Change (Taking), Comments: 7/27/72 Faxed to VIZ pharmacy
+300	: 2/1973Primary Care Doctor:
+301	:  Open appendectomy, as a child. 2.  Laparoscopic cholecystectomy and umbilical hernia repair, as discussed above, in February 1973. Prior relevant labs:
+302	: 10/16/2008SOS-10 Total Score:
+303	:* Psychiatry consult to be evaluated for Vivitrol shot, appt set up for 1/9/85
+304	: 4, 9/11/91Audit C Score Current:
+305	:  9/13/82
+306	s The patient is a 46 yo married Caucasian female who was referred to this clinician for a perinatal consultation in the context of her current pregnancy.  She is due next week on 10/28/75 and she is planning on breastfeeding her son. The pt was accompanied by her husband during the evaluation.
+307	: 10/12/1991Primary Care Doctor:
+308	: 11/17/92Other Adult Mental Health Outcomes Scales Used:
+309	: 7/02/85Communication with referring physician?: Not Done
+310	: 49 yo male with only pertinent medical hx of htn and psychiatric dx of depressive disorder who is referred urgently by PCP for interim care of his depressive sxs until intake with Dr. Queenan 3/16/95.
+311	: 8/29/80SOS-10 Total Score:
+312	s 8/01/89:  Started exemestane
+313	sAppendectomy in July 1986, shortly after delivery.Axis IV: Problems related to social environment; Problems with primary support group
+314	rtherapy: Patient states that she will follow up with the Cotta Hospital clinic regarding getting a therapist for ongoing care. (Per LMR, pt transitioned to a new therapist in 9/2001 and was seen for 1 appointment; the pt canceled her f/u appt 2 weeks later and was not seen for f/u appointments since. )Prescriptions Given:
+315	"""The patient who voices no SI/Hi and no idea, plan or intent re:harm to self or others and fully agrees to outpatient safety plan saw her outpatient psychiatrist last week who restarted Venlafaxine (n.b.: pt had stopped Lithium and Venlafaxine frm 1/2002 until then and is now also taking Concertta daily), will see him twice weekly in the near term, and spoke to S. Oleary, M.D., her previousl ECT treating psychaitrist at JDH who referred her back to the JDH ECT Service and this consultaion.Suicidal Behavior Hx of Suicidal Behavior: Yes"
+316	: (5/11/85) Crt-1.96, BUN-26; AST/ALT-16/22; WBC_12.6Activities of Daily Living (ADL) Bathing: Independent
+317	: 5/18/75 [report_end]
+318	: 3/25/94SOS-10 Total Score:
+319	: father was depressed inpatient at DFC December 23, 1999Family History of Substance Abuse: Yes
+320	: 7/15/83SOS-10 Total Score:
+321	: 8/06/90SOS-10 Total Score:
+322	: 08/01/1977 [report_end]
+323	: 10/17/85Age:
+324	: 3/27/78SOS-10 Total Score:
+325	"yAug 2004 - Dr. Tom Ngo at TMC; dx GAD; patient stopped after two visits re: ""I was scared if this meant I was sick and really needed this"", despite success in controlling anxiety-related symptoms of nausea after just one treatment visit.Psychiatric Review of Systems DEPRESSION: Has the patient had periods of time lasting two weeks or longer in which, most of the day on most days, they felt little interest or pleasure in doing things, or they had to push themselves to do things: No"
+326	: Case discussed in SMH rounds 9/5/89Assessment Discussed: Yes
+327	: 11-20-2011Total time of visit (in minutes):
+328	tProblems Obesity : Obesity since childhood, tried multiple diets and meds. s/p gastric bypass April 2011. She lost over 100 pounds
+329	: 0: 12/5/2010Audit C Score Current:
+330	ePt reports significant stressors in the past year: Her  2 children are dependent on drugs (son 26, daughter 31). Son dependent on heroin,   daughter used marijuana. Daughter  came to live with pt last year. Daughter and daughter's bf were dealing drugs in her house. Daughter withdrew 32k from pt's account in December 1991. Daughter had been v quiet, issues with self esteem in past.
+331	: 2/08/1992CPT Code: 90791: No medical services
+332	: 12/23/81Primary Care Doctor:
+333	tIn Sep 2012 patient returned to Jinan, moving into an off campus rental apartment he's sharing with software engineer visiting from Storage Technology Corporation (originally from Mount Pleasant).
+334	: 1/1/97Communication with referring physician?: Done
+335	: December 1998Primary Care Doctor:
+336	s follow up appointment 12/02/83 at 9am in the Fairbury Clinic office.
+337	: 01/05/80CPT Code: 90792: With medical services
+338	: 10/13/1988Total time of visit (in minutes):
+339	: 03/28/1987Total time of visit (in minutes):
+340	H                  07/12/1976
+341	: 11/26/73CPT Code: 90792: With medical services
+342	: 03/01/95CPT Code: 90801 - Psychiatric Diagnosis Interview
+343	: 08/26/2006Communication with referring physician?: Done
+344	sloss of father in Jan 1992Alcohol Use: How often did you have a drink containing alcohol in the past year: Two to four times a month (2 points)
+345	)Has a RX for PM  Remeron for mood since 2/21/97 (Romo)--not started yet.
+346	: 14 Jan 2008Total time of visit (in minutes):
+347	: 5/21/89SOS-10 Total Score:
+348	: 7/21/93CPT Code: 90792: With medical services
+349	: Hep C and HIV negative, LFTs WNL (October 1996)Problems Opioid dependence
+350	.On 13 Oct 1986 patient admitted to Schroder Hospital for affect instability, having been discharged THAT DAY from a residential program.
+351	: Nicole Kellogg - Nashua Memorial Hospital - upcoming appt on 11/09/88Hx of Brain Injury: No
+352	:patient describes history of depression but states she didn't realize this until she had a positive response to Celexa in February 1992. Prior to this patient had not been in treatment to target depression./anxiety  (only treatment prior to this was couples therapy 10 years ago around the end of her marriage). Patient switched to Prozac becuase of weight gain on Celexa. Patient currently endorsing anhedonia, sleep disturbaces, poor concentration and energy, feelings of guilt and low self-worth, teariness. Patient denies any si/hi.
+353	sLast use: on last drinking binge- July 2004. Has used a few times totalSedative-Hypnotics: No
+354	: 10/04/86Total time of visit (in minutes):
+355	: 11/30/1998Primary Care Doctor:
+356	: 1/07/94SOS-10 Total Score:
+357	. She had MVA 4/30/1988 after falling asleep at wheel. She reduced alcohol after that.
+358	: 1989Family Psych History: Family History of Suicidal Behavior: Ideation/Threat(s)
+359	: 10/14/1972 [report_end]
+360	: 12 March 1980SOS-10 Total Score:
+361	: Per 4/16/89 intake:
+362	) He endorsed the following hyperarousal symptoms: disturbed sleep (e.g., months with great sleep and then has nights he barely sleeps- mind racing with worries related to job, expecting a child (May 2005)); reckless or self-destructive behavior (e.g., see above); difficulty with concentration; some hypervigilance; and exaggerated startle response triggered by loud noises.
+363	: 9/03/90Age:
+364	: 12/01/73CPT Code: 90791: No medical services
+365	4multiple fractures 2/2 to accident 8/2012Surgical History:
+366	: 4/8/75Age:
+367	: 2/13/93Other Adult Mental Health Outcomes Scales Used:
+368	: 8/14/94Primary Care Doctor:
+369	""" In an effort to seek treatment, she began seeing dietician, Frida Gibbons in Hubert, who she states was ""helpful, but not enough.""  She subsequently purchased a diet book and worked through the exercises in the book and states that that, too, was helpful, but not enough.  She ultimately contacted one of the authors of the book and arranged to undergo therapy with her via Skype.  She states that that was helpful for approximately 6-months, at which time her therapist suggested that she seek local ED-specific care.  As such, she underwent an evaluation with Dr. Deon Yarbrough 6/2006 and was subsequently referred to Dr. Tonya Alston for a 20-week course of CBT-E.  Valentina states that her treatment with Dr. Alston was ""phenomenal...it was exactly what I needed.""  She concurrently began seeing Dr. Yvonne Ellison for psychopharmacologic treatment of her underlying depressive/anxiety disorder and BED.  She has since responded well to her current regimen of Zoloft, Vyvanse, and Topamax."
+370	sBradley Memorial Hospital Aug 1978 x 9daysHx of Outpatient Treatment: Yes
+371	: 4, 5/18/78Patient's thoughts about current substance abuse:
+372	: Contemplating jumping off building - 1973 - difficulty writing paper.
+373	: 1/31/85Primary Care Doctor:
+374	: 8/14/84Hx of Brain Injury: No
+375	: 6/05/93CPT Code: 90791: No medical services
+376	: The patient is a 46 yo married Caucasian female with a history of depression and anxiety , as well as a h/o anorexia nervosa as a young adult, who presents with increased symptoms of depression and anxiety in the context of the end of her pregnancy. She had an episode of postpartum depression after the birth of her daughter, which lasted about 2.5 years without treatment, and the pt and husband would like to be proactive about learning their options. She is due on 10/28/87 and is planning on breastfeeding.Patient Instructions
+377	: Stopped daily use in Jan 2004; occassionally smokes when drinking now but this is infrequentFamily Psych History: Family History of Suicidal Behavior: None
+378	: 10/05/97CPT Code: 90791: No medical services
+379	: cymbalta for 7-8 yrs, come off in August 1973, due to side effects--severe constipation, nausea, dizziness--however helped fibromyalia pain and mood considerably.
+380	: 10/15/98CPT Code: 90801 - Psychiatric Diagnosis Interview
+381	y-Will discuss therapy referral options with urgent care team on 10/11/82
+382	: 6/10/2006CPT Code: 90801 - Psychiatric Diagnosis Interview
+383	: 2/28/81Primary Care Doctor:
+384	: 12/08/1990 @11 am [report_end]
+385	: 8/13/89CPT Code: 90792: With medical services
+386	: 6/16/88SOS-10 Total Score:
+387	: 04/17/93SOS-10 Total Score:
+388	: 8/28/72CPT Code: 90791: No medical services
+389	)but not since 5/27/74How many drinks containing alcohol did you have on a typical day when you were drinking in the past year: 3 or 4 (1 point)
+390	: 18 Oct 1999SOS-10 Total Score:
+391	s The patient is a 49 year old married Canadian emigree, living with husband and two young adult children, with history of recurrent major depression with psychotic features and SI/SA, and alcoholism, requiring multiple hospitalizations for SI/SA and detox, who presents for bridge care s/p discharge from Placerville Sanatorium on 05 Feb 1992 and follow up outpatient mental health treatment at Anson General Hospital.
+392	: 6/12/98SOS-10 Total Score:
+393	. Depression- Since 12/2014 she has noticed mood being dampended and accompanied by neurovegetative sx of low energy, some anhedonia, middle insomnia, low appetite, weight gain of 5-10 # in the last year, social isolation, indecisiveness, reduced concentration, guilty thoughts, and helplessness. SHe does not recall depressive episodes in the past. Denies hopeless thinking and denies SI/HI/SIB. Denies prior hx of safety related concenrs. She denies hx of manic sx. She no longer enjoys her job. She is able to perform her job but reports she does not derive much excitement and enjoyment from doing challenging work. She would like to change her job and possibly make a career change. She is considering moving back home to Montana with spouse but is anxious and worried about change.
+394	: 6/07/2001CPT Code: 90792: With medical services
+395	: 06/02/2002CPT Code: 90792: With medical services
+396	: 6/08/91CPT Code: 90792: With medical services
+397	: 11/02/81CPT Code: 90791: No medical services
+398	.8.  Dispo: will follow-up w/ patient after neuropsych testing.  Plan to transfer to longterm psychiatrist Dr. Helen Omalley in May 2002.Supervisor Sign-off Intake Supervisor (if applicable):
+399	: Pt reported no h/o illicit substances but tox screen in March 2010 positive for cocaineCaffeine / Tobacco Use Smoker Status: Never smoker
+400	: 11/27/80Total time of visit (in minutes):
+401	: 1/12/84SOS-10 Total Score:
+402	: 06/20/2014SOS-10 Total Score:
+403	: h/o multiple fractures during childhoodProblems Postural Orthostatic Tachycardia Syndrom : Dx at FMH January 2009, Dr. Quinter
+404	: 22 year old single Caucasian/Latino woman, unemployed Cook recent college graduate, living along with pet rabbit, with long history of depression with cutting and SA but never hospitalized, as well as obesity, hypothyroidism in euthyroid state and PCO, referred by new NMH PCP Dr. Evelyn Julian for urgent evaluation and treatment till first visit with colleague, Dr.  Inez Burns, on 18 Jan 1990, presents with untreated recurrent major depression and developmental history of verbally abusive alcohol abusing mother and school bullying.
+405	: 3/14/95Primary Care Doctor:
+406	: 7/6/74CPT Code: 90792: With medical services
+407	sPt describes a history of sexual abuse as a child; also describes the experience of finding a former partner after he died secondary to overdose in 2005 as traumaticPTSD: Does the patient feel themselves getting very upset whenever they are reminded of their traumatic experience: Yes
+408	s On 7/29/2005, he brought lunch to his girlfriends workplace in  Whitford Rd. He was later biking when a van opened their door and he hit the door. He estimates a brief LOC, or amnesia. He remembers being on the ground on all four seconds later, talked with the van driver, went home. Later on he felt sick, nauseous, had a headache, kind of like being hung over, went to a concert, was irritable. The following day he started getting a throbbing headache, felt fatigued, had difficulty writing and reading. When driving, everything was too slow. After a few days he went to Zumbrota Hospital ER, was told he had a concussion. He did vestibular therapy which helped his nausea. He tried studying at Tianjin but had constant headaches and fatigue. In the last couple of months, he still has headaches over his forehead and over his eyes, the pain is dull, deep, squeezing, sometimes pulsating, is aggravated by light, or effort. He has headaches all the time with intensity varying between 2 and 8/10. He takes Tylenol when the headache is worse. He feels fatigued most of time - after trying to read, going for a walk, taking half of a neuropsychological examination. He feels physically sick. He still gets nausea but that is better.
+409	: see HPI and BVH initial visit supplement from 10/16/75 by Nicholas BenjaminDrug Use: How many times in the past year has the patient used an illegal drug or used a prescription medication for nonmedical reasons:
+410	: 6/18/87SOS-10 Total Score:
+411	: 04/23/1998Total time of visit (in minutes):
+412	: 4, 4/24/89Audit C Score Current:
+413	sIn KEP Psychiatryfor therapy and medications since 1996Prior medication trials (including efficacy, reasons discontinued):
+414	sAnkle fracture : s/p ORIF of the lat malleolus of the R ankle. 12/10/2007 Dr. Morris at O'Connor Hospital.Prior relevant labs:
+415	: 12/22/88CPT Code: 90791: No medical services
+416	: 09/27/79CPT Code: 90792: With medical services
+417	: EEG on 4/19/84 at IMH was normalPertinent Medical Review of Systems Constitutional:
+418	: 07/25/89CPT Code: 90791: No medical services
+419	: see HPI, GERD hyponatremia likely d/t SIADH, IBS, thoracic  T6compression fx, hx HTN , see by cardiology ~6/2002, insomnia seen by sleep medicine consultant, osteoporosis, hx squamous cell CA, hx Raynaud'sSurgical History:
+420	: 4/25/82 Pt will return to finish eval in a second sessionCommunication with referring physician?: Done
+421	:Refilled trazodone. Patient to follow up with geriatric psychiatrist. My leaving the clinic was discussed. Patient to call me until June 25, 2012 if she has any issues.
+422	: 12-31-78SOS-10 Total Score:
+423	: 1/18/86CPT Code: 90801 - Psychiatric Diagnosis Interview
+424	:Pt does not use marijuana currently. Her last use was before her May 1995 suicide attempt. Pt used to smoke marijuana daily bc it was provided by an ex-boyfriend several times per day. Her first use was when she was 18.
+425	: 2; 11/17/2001Audit C Score Current:
+426	: 07/25/1997SOS-10 Total Score:
+427	: appendectomy s/p delivery 1992Prior relevant labs:
+428	: 3/15/95CPT Code: 90801 - Psychiatric Diagnosis Interview
+429	: 11/24/95CPT Code: 90792: With medical services
+430	: 2/05/1979CPT Code: 90791: No medical services
+431	: 07/25/86CPT Code: 90801 - Psychiatric Diagnosis Interview
+432	nLoss of father to cardiac event in Decemeber 1978
+433	: 12/10/81Total time of visit (in minutes):
+434	: 8/18/86Other Adult Mental Health Outcomes Scales Used:
+435	: 12/13/1983CPT Code: 90792: With medical services
+436	: 3/22/94Communication with referring physician?: Not Done
+437	: 10/25/92CPT Code: 90792: With medical services
+438	: 11/17/91Total time of visit (in minutes):
+439	": Per LMR Note by PCP (dr Evaristo quintin, MD)  dated 7/8/90: ""Because of relative change in personality that patient describes and trouble performing work that pt is familiar with albeit higher work load per patient, will arrange MRI Brain. Has hx of pAfib and pulmonary HTN. Will check for any subtle brain changes from TIA or stroke """
+440	sNovember 1997 - suicidal ideation - HHR
+441	: 3/01/94Total time of visit (in minutes):
+442	.On 04 Dec 1988 the patient was admitted to Fairmont Hospital from the APS for NINE MONTH history of increased depression severity, on treatment with sertraline 200 mg, Lunesta 3 mg, and lorazepam 0.5 mg 1-2 QD prn, and in midst of SIX MONTH trial of psychotherapy from Carol Shaw, PhD, in the setting of termination from job as User Support Technician, after six month leave, in midst of lawsuit over wrongful termination.
+443	.Per 7/06/79 Movement D/O note:
+444	sHemmorage caused by probe in 1984Medical History:
+445	e12/2007 dx of endocarditis
+446	: 6/1998Primary Care Doctor:
+447	y Back pain : MRI on Jan 1986 showed disc herniation L3-L4, L4-L5 and L5-S1
+448	: 3/18/88CPT Code: 90801 - Psychiatric Diagnosis Interview
+449	md. metabolic montioring as indicated inc. annual EKG in ~8/2003
+450	: 11/20/1976CPT Code: 90791: No medical services
+451	:  PET Scan (DPSH 5/04/74): 1) Marked hypometabolism involving the bilateral caudate nuclei. This is a non-specific finding, although this raises the question of a multisystem atrophy, specifically MSA-P (striatonigral degeneration), 2) Cortical hypometabolism involving the right inferior frontal gyrus. This is a non-specific finding of uncertain significance, and is not definitively related to a neurodegenerative process, although pathology in this region is not excluded
+452	: 5/17/71Communication with referring physician?: Done
+453	oEnjoys animals, had a dog x 14 yrs who died in 1994Interpersonal Interactions/ Concerns:
+454	: 9/1991Primary Care Doctor:
+455	. First Rx'd medication 12/1989.
+456	.On interview with parents: His parents corroborate above timeline, with initial psychosis involving decreased need for sleep, increased energy/activity, increased talkativity, no flight of ideas, no grandiosity, no increased spending. They felt he returned to 85% within 5 weeks of hospitalization, and then declined again a week prior to May 2006 hospitalization. His parents report that in the last month his anxiety has increased recently, with complaints of headaches. His parents feel his anxiety is the biggest thing they're concerned about. Regarding medication adherence, he missed a few days in the last few weeks but takes it in general, and it was reduced about a month ago. They note weapons at home but report they are locked with a combo lock he doesn't have access to, with ammunition stored separately.Suicidal Behavior Hx of Suicidal Behavior: No
+457	. Age 16, 1991, frontal impact. out for two weeks from sports.
+458	s 25yo male with medical hx of TBI secondary to motorcycle accident 8/1991 and psychiatric diagnosis of mood disorder secondary to GMC who is referred by Enloe Hospital for bridge psychiatric care s/p inpatient hospitalization.
+459	: 8/30/71Age:
+460	: 7/01/78SOS-10 Total Score:
+461	: 4/16/81CPT Code: 90792: With medical services
+462	ndenies during this interview, but symptoms suggestive of hypomania in Feb 1999 obtained by Dr. QuillinBIPOLAR: Has patient ever had periods of being persistently irritable for several days, or had verbal/physical fights that seemed clearly out of character: No
+463	: 11/17/81Primary Care Doctor:
+464	: September. 15, 2011Total time of visit (in minutes):
+465	: 9/22/2012Total time of visit (in minutes):
+466	: 11/23/91 [report_end]
+467	: The patient is a 33 yo married African American female with a h/o depression and anxiety, as well as a h/o PTSD.  She is currently 22 weeks pregnant and referred by her OB team to discuss options regarding mood/ anxiety symptoms in the postpartum period. During her current pregnancy she experienced significant depression and anxiety symptoms and is on short term disability from her job until 7/8/72.  There is a significant h/o etoh and substance use on both sides of her family and she has a remote h/o of a SA at age 12/13 via OD.  At this time, she and her husband would like more information regarding her risks for postpartum psychiatric symptoms; she would like to avoid psychiatric medications during her pregnancy and continues to meet with her therapist weekly.Patient Instructions
+468	: 09/19/1995CPT code: 99205
+469	: 4/25/71 [report_end]
+470	: 10/13/76 Score-0Relevant Drug History:
+471	: 6/1973Hx of Brain Injury: No
+472	s The patient is a 32 yo married Caucasian female who was referred by her CGH OB and CGH OB SW for concerns of postpartum depression and anxiety.  The patient delivered her son, Putnam, on 09/29/92, via an induced vaginal delivery at 42 weeks and is exclusively breastfeeding/ pumping.  She was started on sertraline postpartum and is now on 50mg / day.
+473	oher brother's psychotic break  in Apr 2006, and subsequent diagnosis of Schizophrenia. Brother was at the time in the WWE in UT. Pt took time off and spend with brother one month, taking care of him and trying to encourage him to be treatment compliant.
+474	sTexas Medical Center; Oklahoma for 2 weeks; 1995
+475	: 6/23/74CPT Code: 90792: With medical services
+476	: 11/06/1997Total time of visit (in minutes):
+477	: 09/13/2012CPT Code: 90801 - Psychiatric Diagnosis Interview
+478	: 7/10/1983CPT Code: 90791: No medical services
+479	: 5/23/97CPT Code: 90801 - Psychiatric Diagnosis Interview
+480	.  Mr. Xique has had ECT recently at ADC as due to GERD he was not able to be treatd at Winona Clinic.  He had 16 ECT treatments inc. four bilateral treatments (pt does not recall whether those were bifrontal or bitemporal, and this is his only prior ECT treament course up to today) ending in 6/1981.  The patient did not have a positive patient care experience at ADC, thus he seeks now ECT treatment at KMC and that to be on an inpatient basis.  Mr. Xique reports no complications with his prior ECT.
+481	"dPer Pt Intake from 7/1973: Sometimes has passive ""fleeting"" thoughts about death (""It would be so much easier to be dead."")  More commonly will think about disappearing and starting over somewhere geographically different.  Does not see suicide or relocating as an option.  Has never taken any action towards acting on either of these thoughts.  These thoughts are followed by the thought ""that's not realistic Lowery.""  This ""resets"" the patient and allows her to focus back on the task or challenge at hand.Hx of Non Suicidal Self Injurious Behavior: No"
+482	: 4/18/73CPT Code: 90791: No medical services
+483	: 1/20/83Total time of visit (in minutes):
+484	: Bornd in Northwest Colombia, Alaska; only child; raised by parents and grantparents; grandparent's no deceased; studied chemistry at West Medford College for 6 months.Since 9/15/86 Masters program at Northwestern in YANGON.Family history and relationships:
+485	: 1/1997Primary Care Doctor:
+486	: 12/29/1975Total time of visit (in minutes):
+487	: see above.   Last cutting in 3/1995Violent Behavior Hx of Violent Behavior: No
+488	: 11/1982Primary Care Doctor:
+489	: 4/23/74SOS-10 Total Score:
+490	: 6/25/76Communication with referring physician?: Done
+491	: 10/15/85CPT Code: 90792: With medical services
+492	: 22 Jan 1996 @ 11 AMCommunication with referring physician?: Done
+493	: 07/04/1983Total time of visit (in minutes):
+494	: 12/2011Primary Care Doctor:
+495	: 44 y/o MWF, unemployed Decorator, living with husband and caring for their two young children, referred by CHH PCP for urgent evaluation/treatment till first visit with Dr. Toney Winkler on 24 Jan 2011, presents with history of unclear rheumatologic illness and partially treated post-partum depression which has worsened in severity since patient's discovery of dire family financial situation, with significant anxiety symptoms causing insomnia.
+496	: 5/24/1990CPT Code: 90792: With medical services
+497	: Neuropsychology testing report from OSH, 3/03/1973Problem status Problem/diagnosis:
+498	: 7-29-80SOS-10 Total Score:
+499	: 9/9/88CPT Code: 90801 - Psychiatric Diagnosis Interview
