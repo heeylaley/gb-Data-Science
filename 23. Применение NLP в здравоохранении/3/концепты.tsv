@@ -1,0 +1,545 @@
+CUI	CONCEPT	SNOMED_CODE
+C0000765 	Excessive body weight gain,Excessive weight gain	224994002
+C0701811 	Poor short-term memory,Poor short-term memory	247592009
+C0002170 	Alopecia,Loss of hair	278040002
+C0549622 	Sexual Dysfunction,Sexual disorder	231532002
+C0027497 	Nausea,Nausea	422587007
+C0344232 	Blurred vision,Blurring of visual image	111516008
+C0037316 	Sleep Deprivation,Sleep deprivation	130989002
+C0424000 	Feeling suicidal,Feeling suicidal	225457007
+C0424565 	Cannot sleep at all,Cannot sleep at all	248255005
+C1971624 	Loss of appetite,Loss of appetite	79890006
+C0558066 	Intrusive thoughts,Intrusive thoughts	225445003
+C0557386	Restricted work performance,Restricted work performance	224398005
+C0086769 	Panic Attacks,Panic attack	225624000
+C0003467 	Anxiety,Anxiety	48694002
+C0231403	Severe anxiety,Severe anxiety	80583007
+C0233754 	Derealization,Derealization	40806005
+C0917801 	Sleeplessness,Insomnia	193462001
+C0012833 	Dizziness,Dizziness	404640003
+C0010201 	Chronic cough,Chronic cough	68154008
+C0043094 	Weight Gain,Weight gain	8943002
+C2981158 	Lack of libido,Lack of libido	248096004
+C0583237 	Emergency room admission,Emergency room admission	50849002
+C0039231 	Tachycardia,Tachycardia	3424008
+C0522365 	Severe vertigo,Severe vertigo	103298005
+C0424573 	Always sleepy,Always sleepy	248262001
+C0560765 	Unable to maintain a position,Unable to maintain a position	282848007
+C0042571 	Vertigo,Vertigo	399153001
+C0043352 	Xerostomia,Xerostomia	87715008
+C0425083 	Loss of job,Loss of job	266956001
+C0751908 	Vestibular Neuronitis,Epidemic vertigo	186738001
+C0037763 	Spasm,Spasm	45352006
+C0231530 	Muscle twitch,Muscle twitch	60238002
+C0231528 	Myalgia,Muscle pain	68962001
+C0009676 	Confusion,Confusional state	286933003
+C0016382 	Flushing,Face goes red	271811009
+C0033893 	Tension Headache,Tension-type headache	398057008
+C0700590 	Increased sweating,Excessive sweating	52613005
+C0242350 	Erectile dysfunction,Impotence	397803000
+C0149931 	Migraine Disorders,Migraine	37796009
+C0497247 	Increase in blood pressure,Finding of increased blood pressure	24184005
+C0235195 	Sedated state,Sedated	17971005
+C0424444 	Clenching teeth,Clenching teeth	110302009
+C0234022 	Orgasm incapacity,Orgasm incapacity	62607004
+C0456820 	Loss of capacity to feel emotions,Loss of capacity to feel emotions	45991007
+C0002622 	Amnesia,Amnesia	48167000
+C0233469 	Blunted affect,Blunted affect	6140007
+C0233484 	Emotionally detached,Emotionally detached	24936000
+C0233794 	Memory impairment,Memory impairment	386807006
+C0701810	Poor long-term memory,Poor long-term memory,Long-term memory loss	247588002
+C0006325 	Bruxism,Grinding teeth	90207007
+C0018681 	Headache,Headache	25064002
+C0042963 	Vomiting,Vomiting symptom	249497008
+C4075722 	Wakes up during night,Wakes up during night	713822005
+C0860645 	Bizarre dreams,Bizarre dreams	419581008
+C0233763 	Hallucinations, Visual,Visual hallucinations	64269007
+C0586742 	Difficulty reading,Difficulty reading	309253009
+C0520947 	Clumsiness - motor delay,Clumsiness - motor delay	307653008
+C0424117 	Excessive energy,Excessive energy	247779009
+C0581881 	Heavy head,Heavy head	162311003
+C0344315 	Depressed mood,Depressed mood	366979004
+C0015672 	Fatigue,Fatigue	84229001
+C0085632 	Apathy,Indifference	20602000
+C0027066 	Myoclonus,Myoclonic disorder	127324008
+C0678798 	Adverse drug interaction,Adverse drug interaction with drug	448178009
+C0557875 	Tired,Tired	224960004
+C0812387 	Feels cold,Feels cold	64713002
+C0233494 	Tension,Tension	53489000
+C0013144 	Drowsiness,Drowsy	271782001
+C0018616 	Hate,Feeling hatred	16962006
+C0028081 	Night sweats,Night sweats	42984000
+C0085633 	Mood swings,Mood swings	18963009
+C0564408 	Manic mood,Manic mood	405273008
+C0011551 	Depersonalization,Depersonalization	79499004
+C0393761 	Middle insomnia,Middle insomnia	67233009
+C0344320 	Detailed recall of dream,Detailed recall of dream	247953009
+C0392171 	Influenza-like symptoms,Influenza-like symptoms	315642008
+C1446377	Mental health problem,Mental health problem	413307004
+C0018834 	Heartburn,Heartburn	16331000
+C0281856 	Generalized aches and pains,Generalized aches and pains	82991003
+C0030193 	Pain,Pain	22253000
+C0455270 	Sharp pain,Sharp pain	8708008]
+C0009269 	Cold intolerance,Intolerant of cold	80585000
+C0520547 	Poor peripheral circulation,Poor peripheral circulation	4249000
+C0234238 	Ache,Aching sensation quality	410711009
+C0423572 	Pins and needles,Pins and needles	62507009
+C0023380 	Lethargy,Lethargy	214264003
+C0425251 	Bed-ridden,Bed-ridden	160685001
+C0314719 	Dryness of eye,Dry eyes	162290004
+C0028840 	Ocular Hypertension,Ocular hypertension	4210003
+C0235198 	Unable to concentrate,Unable to concentrate	60032008
+C3839824 	Lip sucking,Lip sucking	700247008
+C0037317 	Sleep disturbances,Disturbance in sleep behavior	53888004
+C0392674 	Exhaustion,Exhaustion	60119000]
+C0012833 	Dizziness,dizziness	404640003
+C0392171 	Influenza-like symptoms,influenza-like symptoms	315642008
+C0042963 	Vomiting,vomiting symptom	249497008
+C0233408 	Disorientated in time,disorientated in time	19657006
+C0151786 	Muscle Weakness,muscle weakness	26544005
+C0013404 	Dyspnea,dyspnea	267036007
+C0456814 	Loss of motivation,Loss of motivation	277521002
+C0558078 	Low motivation,Low motivation	26413003
+C0424336 	Delayed reaction time - finding,Finding of delayed reaction time	248024008
+C0542476 	Forgetful,Forgetful	55533009
+C0338656 	Impaired cognition,Impaired cognition	386806002
+C0231403 	Severe anxiety,Severe anxiety	80583007
+C0030318 	Panic,Panic	79823003
+C0342952 	Hypermetabolism,Hypermetabolism	37910008
+C0030252 	Palpitations,Palpitations	80313002
+C0235239 	Palpitations - fluttering,Fluttering heart	161969004
+C0159066 	Abdominal rigidity,Abdominal rigidity	72300008
+C3164199 	Adverse drug interaction with alcohol,Adverse drug interaction with alcohol	448091007
+C0237314 	Irregular heart beat,Irregular heart beat	361137007
+C0438696 	Suicidal,Suicidal	267073005
+C0278140 	Severe pain,Severe pain	76948002
+C3887605 	Nightmare Disorder,Dream anxiety disorder	111487009
+C0038990 	Sweating,Sweating	415690000
+C0424099 	Reduced concentration,Reduced concentration	247761005
+C0043387 	Yawning,Yawning	248626009
+C0040822 	Tremor,Tremor	26079004
+C1827663 	Difficulty maintaining relationships,Difficulty maintaining relationships	424573006
+C0085602 	Polydipsia,Finding of excessive fluid intake	267026004
+C0600142 	Hot flushes,Climacteric flushing	427368007
+C0232292 	Chest tightness,Tight chest	23924001
+C1443924 	Severe diarrhea,Severe diarrhea	409587002
+C0042023 	Increased frequency of micturition,Finding of frequency of urination	300471006
+C0586746 	Excessive weight loss,Excessive weight loss	309257005
+C0344375 	Stomach cramps,Stomach cramps	51197009
+C0040997 	Trigeminal Neuralgia,Trigeminal neuralgia	31681005
+C0020175 	Hunger,Hungry	55350005
+C0150041 	Feeling hopeless,Feeling hopeless	307077003
+C0424166 	Social fear,Social fear	247832004
+C0425736 	Cannot be aroused sexually,Cannot be aroused sexually	248763005
+C0016770 	Frustration,Feeling frustrated	224973000
+C0221512 	Stomach ache,Stomach ache	271681002
+C0028643 	Numbness,Numbness	44077006
+C0009806 	Constipation,Constipation	14760008
+C0393760 	Initial insomnia,Initial insomnia	59050008
+C0520913 	Defective metabolism,Defective metabolism	63569001
+C0231247 	Failure to lose weight,Failure to lose weight	83421005
+C0497406 	Overweight,Overweight	238131007
+C0235969 	Disorder of ejaculation,Disorder of ejaculation	386790008
+C0677660 	Emotional problems,Emotional problems	386816005
+C1298942 	Excessive somnolence,Excessive somnolence	372947007
+C0022107 	Irritable Mood,Feeling irritable	55929007
+C0520966 	Abnormal coordination,Coordination problem	302289002
+C0564332 	Difficulty preparing meal,Difficulty preparing meal	286493007
+C3536730 	Stumbling,Stumbling	82612009
+C1283330 	Absenteeism at work,Absenteeism at work	360484006
+C0558077 	Constantly crying,Constantly crying	225460000
+C2219848 	Daytime somnolence,Daytime somnolence	141000119100
+C0563717 	Unable to control emotions,Unable to control emotions	285851007
+C0178417 	Anhedonia,Loss of capacity for enjoyment	247796005
+C0233514 	Abnormal behavior,Abnormal behavior	25786006
+C0011124 	Decreased Libido,Reduced libido	8357008
+C0085636 	Photophobia,Photophobia	409668002
+C1821572 	Decreased level of consciousness,Decreased level of consciousness	443371007
+C0563158 	Compulsion to act on dangerous thoughts,Compulsion to act on dangerous thoughts	285255005
+C0438697 	Crying, excessive,Crying, excessive	162213003
+C0521008 	Screaming,Screaming	81916006
+C0558261 	Terrified,Terrified	225634009
+C0522172 	Feeling intoxicated,Feeling intoxicated	102897001
+C0019993 	Hospitalization,Inpatient care	394656005
+C2364111 	Ageusia,Loss of taste	36955009
+C0424431 	Craving for particular food,Craving for particular food	192019001
+C0020505 	Hyperphagia,Excessive eating - polyphagia	267023007
+C1291077 	Abdominal bloating,Bloating symptom	248490000
+C0424555 	Clammy sweat,Clammy sweat	248245006
+C0849963 	Feeling nervous,Feeling nervous	424196004
+C0018524 	Hallucinations,Hallucinations	7011001
+C0428895 	Labile blood pressure,Labile blood pressure	251080003
+C0233998 	Orgasm impairment,Orgasm impairment	40915004
+C0011991 	Diarrhea,Diarrhea	62315008
+C0554978 	Racing thoughts,Racing thoughts	285303006
+C0235146 	Euphoric mood,Feeling high	307074005
+C0000737 	Abdominal Pain,Abdominal pain	21522001
+C1971624	Loss of appetite,Loss of appetite,Appetite absent	79890006
+C0232462 	Decrease in appetite,Decrease in appetite	64379006
+C0700031 	Anxiety attack,Anxiety attack	300895004
+C0001241 	Acting Out,Acting out - mental defense mechanism	286662000
+C0013404 	Dyspnea,Dyspnea	267036007
+C0005911 	Body Weight Changes,Weight change	248346009
+C0232461 	Increased appetite,Increased appetite	72405004
+C0426584 	Excessive appetite,Excessive appetite	102608004
+C0427195 	Muscle Tension,Muscle tension	250069006
+C0003862 	Arthralgia,Joint pain	57676002
+C0475858 	Generalized pruritus,Generalized pruritus	276444007
+C0423684 	Thoracic back pain,Thoracic back pain	279038004
+C0004604 	Back Pain,Backache	161891005
+C0010709 	Cyst,Cyst	441457006
+C0033774 	Pruritus,Itching	418290006
+C0917799 	Hypersomnia,Hypersomnia	77692006
+C0423994 	Unable to think clearly,Unable to think clearly	247640008
+C0018379 	Guilt,Feeling guilt	7571003
+C0028084 	Nightmares,Nightmares	419145002
+C3263685 	Hormone abnormality,Hormone abnormality	84452004
+C0424939 	Learning difficulties,Learning difficulties	161129001
+C0005826 	Abnormal blood pressure,Abnormal blood pressure	38936003
+C0554980 	Moody,Moody	286641001
+C0392156 	Akathisia,Akathisia	285145004
+C0278180 	Drugged state,Drugged state	34951003
+C0234019 	Does not enjoy having sex,Does not enjoy having sex	87388001
+C0036902 	Sexual Arousal Disorder,Sexual arousal disorder	74007000
+C0026961 	Mydriasis,Dilated pupil	37125009
+C0556385 	Craving for alcohol,Craving for alcohol	228365005
+C0151474 	Alcohol intolerance,Alcohol intolerance	102612005
+C0312422 	Blackout - symptom,Blackout	418648005
+C0542313 	Sleep Talking,Sleeptalking	36321004
+C0233479 	Elevated mood,Elevated mood	81548002
+C0001973 	Alcoholic Intoxication, Chronic,Alcohol dependence	66590003
+C0009938 	Contusions,Contusion	125667009
+C0036341 	Schizophrenia,Schizophrenia	58214004
+C0085631 	Agitation,Feeling agitated	24199005
+C0871189 	Psychotic symptom,Psychotic symptom	363895008
+C4304747 	Intelligible speech,Intelligible speech	719401001
+C0424323 	Physical aggression,Physical aggression	248004009
+C1262477 	Weight decreased,Weight loss	89362005
+C0233471 	Flat affect,Flat affect	932006
+C0021177 	Increased Libido,Increased libido	58436003
+C0423044	Poor focus,Poor focus	246720002
+C3887611 	Restlessness,Restlessness	162221009
+C0424558 	Sweaty hands,Sweaty hands	248248008
+C0007859 	Neck Pain,Neck pain	81680005
+C0233565 	Bradykinesia,Bradykinesia	399317006
+C0020039 	Hostility,Hostile behavior	79351003
+C0563146 	Slow flow of thought,Slow flow of thought	247627003
+C0151908 	Dry skin,Dry skin	16386004
+C0277960 	Dry hair,Dry hair	79395009
+C3672010 	Lip licking,Lip licking	700248003
+C0040264 	Tinnitus,Tinnitus	60862001
+C0008031 	Chest Pain,Chest pain	29857009
+C0522165 	Feeling calm,Feeling calm	102894008
+C0566582 	Appetite problem,Appetite problem	289163007
+C0080274 	Urinary Retention,Unable to void urine	449491000124101
+C0013604 	Edema,Edema	267038008
+C0002957 	Anger,Feeling angry	75408008
+C1277340 	Deterioration in school performance,Deterioration in school performance	315245004
+C0220870 	Lightheadedness,Lightheadedness	386705008
+C0424528 	Dream-like state,Seems in a dream	19129003
+C0558127 	Feels dreams are real,Feels dreams are real	225522006
+C0270327 	Bedwetting,Nocturnal enuresis	8009008
+C0235309 	Upset stomach,Upset stomach	162059005
+C0557386 	Restricted work performance,Restricted work performance	224398005
+C0024031 	Low Back Pain,Low back pain	279039007
+C0022104 	Irritable Bowel Syndrome,Irritable bowel syndrome	10743008
+C0015230 	Exanthema,Cutaneous eruption	112625008
+C0564548 	Callous character,Callous character	286734003
+C0231218 	Malaise,Malaise	367391008
+C0027424 	Nasal congestion,Nasal congestion	68235000]
+C0349446 	Dissociative trance,Dissociative trance	276296007
+C0085593 	Chills,Chill	43724002
+C0278210 	Problem of visual accommodation,Problem of visual accommodation	55891002
+C0233408 	Disorientated in time,Disorientated in time	19657006
+C0233407 	Disorientation,Disorientated	62476001
+C0231303 	Distress,Distress	69328002
+C0424432 	Craving for particular drink,Craving for particular drink	248133008
+C0413862 	Adverse reaction to caffeine,Adverse reaction caused by caffeine	218799005
+C2129214 	Loose stool,loose stool	398032003
+C0234047 	Late ejaculation,Late ejaculation	15405008
+C4074971 	Unable to cry,Unable to cry	715039008
+C0232124 	Dropped beats - pulse,Dropped beats - pulse	86890001
+C0231218	Malaise,Undifferentiated illness: Vague ill health,Malaise	248282002
+C0582051 	Feels warm,Feels warm	304214002
+C0425769 	Excessive orgasm,Excessive orgasm	248799000
+C0232487 	Abdominal discomfort,Abdominal discomfort	43364001
+C0312418 	Personality Sensitivity,Sensitivity	35209006
+C2958630 	Sense of impending doom,Sense of impending doom	712759008
+C0036660 	Morbid hunger,Morbid hunger	32939004
+C0425766 	Weak orgasm,Weak orgasm	248796007
+C4074950 	Difficulty crying,Difficulty crying	715042002
+C4048182 	Unable to swallow,Unable to swallow	249486008
+C0455769 	Increased energy,Increased energy	276301007
+C0577027 	Stomach problem,Stomach problem	300306001
+C0038663 	Suicide attempt,Suicide attempt	82313006
+C0016053 	Fibromyalgia,Fibromyalgia	203082005
+C0041674 	Unemployment,Unemployed	73438004
+C0562319 	Examination of heart,Examination of heart	284448002
+C4275267 	Referral to critical care service,Referral to critical care service	715189003
+C0522179 	Death anxiety,Death anxiety	129869000
+C0424095 	Social withdrawal,Social withdrawal	105411000
+C0311394 	Difficulty walking,Difficulty walking	719232003
+C0029944 	Drug Overdose,Drug overdose	55680006
+C1760428 	Suicidal behavior,Suicidal behavior	425104003
+C0021167 	Incontinence,Incontinence	48340000
+C0547030 	Visual disturbance,Visual alteration	131182003
+C1456784 	Paranoia,Paranoid disorder	191667009
+C0039070 	Syncope,Syncope	271594007
+C0583786 	Seen in psychiatry day hospital,Seen in psychiatry day hospital	305908005
+C0037320 	Night Terrors,Sleep terror disorder	89675003
+C0233762 	Hallucinations, Auditory,Auditory hallucinations	45150006
+C0039494 	Temporomandibular Joint Disorders,Temporomandibular joint disorder	41888000
+C0424304 	Inappropriate laughter,Inappropriate laughter	247985007
+C0241729 	Weight fluctuates,Weight fluctuates	248332009
+C0150079 	Sleep pattern disturbance,Sleep pattern disturbance	26677001
+C0554985 	Aggressive outburst,Aggressive outburst	192083006
+C0560617 	Knocked out,Knocked out	282750008
+C0017168 	Gastroesophageal reflux disease,Acid reflux	698065002
+C0017187 	Gastrointestinal problem,Gastrointestinal tract problem	300439004
+C0424366 	Self-harm,Self-harm	248061004
+C0850674 	Twitching eye,Twitching eye	699377006
+C0877781 	Hemicrania,Unilateral headache	103006007
+C2141086 	Pain of left eye,Pain of left eye	339211000119104
+C0239511 	Numbness of face,Numbness of face	309557009
+C0239832 	Numbness of hand,Numbness of hand	309521004
+C0151315 	Neck stiffness,Stiff neck	161882006
+C0241042 	Shoulder stiff,Shoulder stiff	249918006
+C0564820 	Pain in left arm,Pain in left arm	287045000
+C0020604 	Hypochondriasis,Hypochondriasis	18193002
+C0012746 	Dissociative disorder,Dissociative disorder	44376007
+C0425101 	Problems at work,Problems at work	266959008
+C0426585 	Always hungry,Always hungry	249472009
+C0575010 	Temporomandibular joint stiff,Temporomandibular joint stiff	298231004
+C2364087 	Actual Low Initiative,Loss of initiative	276306002
+C0569700 	Dopamine adverse reaction,Dopamine adverse reaction	292518004
+C0020615 	Hypoglycemia,Hypoglycemia	302866003
+C0041755 	Adverse reaction to drug,Adverse reaction caused by drug	62014003
+C0016242 	Vitreous floaters,Vitreous floaters	15013002
+C0035258 	Restless Legs Syndrome,Restless legs	32914008
+C0235169 	Excitability,Excitability	102893002
+C0455204 	Homicidal thoughts,Homicidal thoughts	225450009
+C0702166 	Acne,Acne	11381005
+C0522058 	Carbohydrate craving,Carbohydrate craving	102607009
+C0013473 	Eating Disorders,Eating disorder	72366004
+C0235050 	Tingling of skin,Tingling of skin	274676007
+C0522057 	Numbness of skin,Numbness of skin	102603008
+C0558219 	Easily upset,Easily upset	225653004
+C0581879 	Felt faint,Feeling faint	248223005
+C0522173 	Absence of guilt,Absence of guilt	102905003
+C0424295 	Hyperactive behavior,Hyperactive behavior	44548000
+C0395016 	Speech problem,Speech problem	267095009
+C2018018 	Speech block,Speech block	719399007
+C0677661 	Emotional upset,Emotional upset	309838005
+C0234463 	Amnemonic aphasia,Amnemonic aphasia	85799002
+C0236858 	Partner relationship problem,Partner relationship problem	1041000119100
+C0555026 	Marital conflict,Marital problems	65118005
+C0424132 	Tedium vitae,Tedium vitae	247795009
+C0024517 	Single major depressive episode,Major depression, single episode	36923009
+C0424112 	Unable to cry with emotion,Unable to cry with emotion	247773005
+C3495011 	Drug interaction with tobacco,Drug interaction with tobacco	432381000124102
+C2939147 	Feels hot,Feels hot	373932008
+C0015726 	Fear,Fear	1402001
+C0026603 	Motion Sickness,Motion sickness	37031009
+C0277884 	Increased systolic arterial pressure,Increased systolic arterial pressure	18050000
+C0023222 	Pain in lower limb,Pain in lower limb	10601006
+C0241633 	Vaginal dryness,Vaginal dryness	31908003
+C0235283 	Buzzing in ear,Buzzing in ear	162351000
+C0424572 	Oversleeps,Oversleeps	248261008
+C0233492 	Elation,Elation	34822003
+C0027338 	Nail Biting,Nail biting	37298006
+C0578994 	Unpleasant taste in mouth,Bad taste in mouth	302188001
+C0239649 	Numbness of foot,Numbness of foot	309538000
+C0037199	Sinusitis,Sinusitis,Sinusitis	36971009
+C0036973 	Shivering,Shivering or rigors	248456009
+C0522224 	Paralysed,Paralysis	44695005
+C0578673 	Difficulty moving,Difficulty moving	302002000
+C0036572 	Seizures,Seizure	91175000
+C0558185 	Unable to move,Unable to move	225601007
+C0564216 	Unable to speak,Unable to speak	286369003
+C0566276 	Unable to drink,Unable to drink	288854000
+C0233632 	Disturbance in thinking,Disturbance in thinking	26628009
+C0557885 	Feeling trapped,Feeling trapped	224976008
+C0581394 	Swollen legs,Swelling of lower limb	449614009
+C0033771 	Prurigo,Pruritic rash	64144002
+C0149745 	Oral Ulcer,Ulcer of mouth	26284000
+C1527304 	Allergic Reaction,Allergic reaction	419076005
+C0242429 	Sore Throat,Sore throat symptom	267102003
+C2697368 	Gastrointestinal irritation,Gastrointestinal irritation	95516005
+C0235108 	Feeling tense,Feeling tense	263897001
+C0241705 	Difficulty passing urine,Difficulty passing urine	102835006
+C1532253 	Sedentary lifestyle,Sedentary lifestyle	415510005
+C0563168 	Dangerous and harmful thoughts,Dangerous and harmful thoughts	285261008
+C0239882 	Head tremor,Head tremor	313841000009104
+C0236000 	Jaw pain,Jaw pain	274667000
+C0424110 	Cries easily,Cries easily	247771007
+C0003811 	Cardiac Arrhythmia,Cardiac arrhythmia	698247007
+C0232197 	Fibrillation,Fibrillation	40593004
+C0233488 	Feeling despair,Feeling despair	17029006
+C0262630 	Reduced concentration span,Reduced concentration span	247762003
+C0038506 	Stuttering,Stuttering	39423001
+C0005586 	Bipolar Disorder,Bipolar disorder	13746004
+C0010399 	Crying,Crying	304534000
+C0701812 	Sluggish thinking,Sluggish thought	285243004
+C0240327  	Taste, Metallic,Metallic taste	11193009
+C0240327 	Taste, Metallic,Metallic taste	11193009
+C0234369 	Trembling,Trembles	267079009
+C0241254 	Mucus in stool,Mucus in stool	271864008
+C0239978 	Increased frequency of defecation,Increased frequency of defecation	15510009
+C0683369 	Clouded consciousness,Clouded consciousness	40917007
+C3665347 	Visual Impairment,Visual impairment	397540003
+C0014724 	Eructation,Belching symptom	275299008
+C0423564 	Abnormal taste in mouth,Abnormal taste in mouth	247318005
+C3472701 	Tendinitis of elbow or forearm,Tendinitis of elbow or forearm	331000119106
+C0581912 	Heavy feeling,Heavy feeling	161874006
+C2032293 	Bilateral calf pain,Bilateral calf pain	15634471000119104
+C0341117 	Esophageal erosions,Esophageal erosions	196623008
+C0425712 	Bad circulation - vasomotor change,Bad circulation - vasomotor change	271137009
+C0564821 	Pain in right arm,Pain in right arm	287046004
+C0016512 	Foot pain,Foot pain	47933007
+C0458256 	Heavy pain,Heavy pain	279095003
+C0856672 	Rectal bleeding,Hematochezia	405729008
+C0019080 	Hemorrhage,Hemorrhage	50960005
+C0017152 	Gastritis,Gastritis	4556007
+C0557932 	Memory lapses,Memory lapses	225038006
+C1562291 	Loss of interest in previously enjoyable activity,Loss of interest	247753000
+C0026821 	Muscle Cramp,Cramp	55300003
+C0239067 	Difficulty walking up stairs,Difficulty walking up stairs	282195009
+C0242979 	Muscle Fatigue,Muscle fatigue	80449002
+C0085628 	Stupor,Stupor	89458003
+C0582140 	Unable to control behavior,Unable to control behavior	225902002
+C0232431 	Cold sweat,Cold sweat	83547004
+C0009595 	Obsessive-Compulsive Personality,Obsessive compulsive personality disorder	1376001
+C0233624 	Cheilophagia,Lip biting	196575007
+C0011057 	Hearing Loss, Sudden,Sudden hearing loss	79471008
+C0018784 	Sensorineural Hearing Loss,Sensorineural hearing loss	60700002
+C0024421 	Macroglossia,Enlargement of tongue	25273001
+C0424235 	Fidgeting,Fidgeting	247910009
+C0013378 	Dysgeusia,Taste sense altered	271801002
+C0235160 	Restless sleep,Restless sleep	12262002
+C0427068 	Monoparesis - leg,Monoparesis - leg	249945007
+C0424329 	Outbursts of anger,Outbursts of anger	274951009
+C0679136 	Low self-esteem,Low self-esteem	286647002
+C0233497 	Insecurity,Insecurity	54038000
+C1688635 	Feeling unhappy,Feeling unhappy	420038007
+C0557455 	Leaving job,Leaving job	224472000
+C0281822 	Skin problem,Skin problem	297982009
+C0151692 	Impaired wound healing,Impaired wound healing	271618001
+C0037278 	Skin Diseases, Infectious,Infection of skin	108365000
+C0021390 	Inflammatory Bowel Diseases,Inflammatory bowel disease	24526004
+C0857087 	Dizzy spells,Dizzy spells	315018008
+C0233660 	Mental blocking,Thought block	2899008
+C0037195 	Sinus headache,Sinus headache	4969004
+C0596170 	Binge eating disorder,Binging	248122005
+C0007398 	Catatonia,Catatonia	247917007
+C0020443 	Hypercholesterolemia,Hypercholesterolemia	13644009
+C0578026 	Body weight problem,Body weight problem	301336003
+C0270996 	Swelling of structure of eye,Swelling of structure of eye	45177002
+C0240941 	Pruritus of scalp,Scalp itchy	275921007
+C0586741 	Unable to read,Unable to read	309252004
+C0234655 	Burning sensation in eye,Burning sensation in eye	2070002
+C0560024 	Swelling of eyelid,Swelling of eyelid	193967004
+C0237220 	Abusive behavior,Abusive behavior	225481000
+C0424551 	Impaired exercise tolerance,Impaired exercise tolerance	267044007
+C0232534 	Globus sensation,Globus sensation	88889000
+C0085602	Polydipsia,Finding of excessive fluid intake,Polydipsia	267026004
+C0424091 	Loss of interest,Lack of interest	713566001
+C0221785 	Pain in wrist,Wrist joint pain	202482009
+C0395922 	Cervical vertigo,Cervical vertigo	84769001
+C0040460 	Toothache,Toothache	27355003
+C0239739 	Tenderness of gums,Tenderness of gums	110341006
+C0015967 	Fever,Body temperature above reference range	50177009
+C0015300 	Exophthalmos,Exophthalmos	18265008
+C0406223 	Finger wrinkling,Finger wrinkling	238532005
+C0278209 	Abnormal peripheral vision,Abnormal peripheral vision	12772003
+C0268000 	Body fluid retention,Body fluid retention	43498006
+C0032617 	Polyuria,Polyuria	28442001
+C0557878 	Hot sweats,Hot sweats	224962007
+C0232448 	Abnormal skin pH,Abnormal skin pH	66118000
+C0032227 	Pleural effusion disorder,Pleural effusion	60046008
+C0009443 	Common Cold,Common cold	82272006
+C0700148 	Congestion,Congestion	85804007
+C0016204 	Flatulence,Flatulence symptom	308698004
+C0231403	Severe anxiety,Severe anxiety	80583007]
+C0400822	Colitis, Lymphocytic,Lymphocytic-plasmacytic colitis,Lymphocytic colitis	31437008
+C0232959 	Premenstrual symptom,Premenstrual symptom	10885003
+C0004936 	Mental disorders,Mental disorder	74732009
+C0040332 	Tobacco Dependence,Tobacco dependence syndrome	89765005
+C0424142 	ill-at-ease,Ill-at-ease	247806005
+C0040441 	Tooth Fractures,Fracture of tooth	36202009
+C0156404 	Irregular periods,Irregular periods	80182007
+C0011860 	Diabetes Mellitus, Non-Insulin-Dependent,Diabetes mellitus type 2	44054006
+C0002871 	Anemia,Anemia	271737000
+C0019080 	Hemorrhage,Bleeding	131148009
+C0031212 	Personality Disorders,Personality disorder	33449004
+C0522178 	Thoughts of self harm,Thoughts of self harm	102911000
+C0694551 	Right lower quadrant pain,Right lower quadrant pain	301754002
+C0151786 	Muscle Weakness,Muscle weakness	26544005
+C0004095 	Asthenopia,Eye strain	70323002
+C0233800 	Confabulation,Confabulation	17842005
+C0577477 	Unable to perform creative activity,Unable to perform creative activity	300763008
+C0423636 	Cardiac pain,Cardiac chest pain	426396005
+C0424092 	Withdrawn,Withdrawn	247755007
+C0240735 	Personality change,Personality change	102943000
+C0557883 	Feeling aggressive,Feeling aggressive	224971003
+C0235439 	Ankle edema,Swollen ankle	267039000
+C0038999 	Swelling,Swelling	65124004
+C0004096 	Asthma,Asthma	195967001
+C0000734 	Abdominal mass,Abdominal mass	271860004
+C0577887 	Nasal sinus problem,Nasal sinus problem	301202006
+C0026858 	Musculoskeletal Pain,Musculoskeletal pain	279069000
+C0011206 	Delirium,Delirium	2776000
+C0038661 	Suicide,Suicide	44301001
+C0582093 	Wanting to die,Wanting to die	225876004
+C0233730 	Swearing,Swearing	48285002
+C0524322 	Personal relationship breakdown,Personal relationship breakdown	105414008
+C0020676 	Hypothyroidism,Hypothyroidism	40930008
+C0233613 	Echopraxia,Echopraxia	33184005
+C0425082 	Stopped work,Stopped work	160895006
+C1384606 	Dyspareunia,Dyspareunia	71315007
+C0020538 	Hypertensive disease,Hypertensive disorder, systemic arterial	38341003
+C0338237 	Antibiotic therapy,Antibiotic therapy	281789004
+C0013456 	Earache,Otalgia	16001004
+C0241934 	Hypomania,Hypomanic mood	281257007
+C0150084 	Altered thought processes,Altered thought processes	78633001
+C0041582 	Ulcer,Ulcer	429040005
+C0038358 	Gastric ulcer,Gastric ulcer	397825006
+C0232937 	Missed period,Missed period	36521000
+C0025323 	Menorrhagia,Menorrhagia	386692008
+C0233818 	Impaired judgement,Impaired judgement	38504003
+C0439814 	Prickling sensation,Prickling sensation of skin	162248005
+C0234458 	Dream disorder,Dream disorder	85418005
+C0338481 	Ophthalmic migraine,Ophthalmic migraine	95655001
+C0017601 	Glaucoma,Glaucoma	23986001
+C0426579 	Anorexia symptom,Anorexia symptom	249468005
+C0424537 	Absent minded,Absent minded	46991000
+C0584995 	Difficulty writing,Difficulty writing	102938007
+C0231912 	Nocturnal cough,Nocturnal cough	62548007
+C0564184 	Difficulty producing voice,Difficulty producing voice	286330009
+C0278016	Hard stool,Hard stool,Faeces hard	75295004
+C0751466 	Phonophobia,Phonophobia	313387002
+C0241981 	Impairment of balance,Impairment of balance	387603000
+C0235234 	Pharyngeal dryness,Pharyngeal dryness	102618009
+C0560085 	Difficulty walking down stairs,Difficulty walking down stairs	282201001
+C0239779 	Grimaces,Grimaces	39960009
+C0037933 	Spinal Diseases,Disorder of vertebral column	699699005
+C0158262 	Degeneration of cervical intervertebral disc,Degeneration of cervical intervertebral disc	69195002
+C0242362 	Disk, Herniated,Intervertebral disc prolapse	73589001
+C0037944 	Spinal Stenosis,Spinal stenosis	76107001
+C0239833 	Hand pain,Hand pain	53057004
+C0239377 	Arm Pain,Pain in upper limb	102556003
+C0020624 	Hypomenorrhea,Hypomenorrhea	64206003
+C0424158 	Fear of losing emotional control,Fear of losing emotional control	247823001
+c0037317	sleep disturbances,Disturbance in sleep behavior	53888004
+C0036104 	secretion of saliva,Salivary secretion, function	34178000
+C0558171 	Deteriorating vision,Sight deteriorating	225581002
+C0001807 	Aggressive behavior,Aggressive behavior	61372001
+C0582141 	Difficulty controlling behavior,Difficulty controlling behavior	225903007
+C0424557 	Sweaty feet,Sweaty feet	248247003
+C0575805 	swelling of hands,Swelling of hand	299037003
+C0042109 	Urticaria,Urticaria	64305001
+C0019345 	Herpes Labialis,Herpes labialis	1475003
+C0010200 	Coughing,Cough	49727002
+C0019112 	Hemorrhoids,Hemorrhoids	70153002
+C0343495 	Lockjaw,Tetanus with trismus	240432006
+C0271650 	Impaired glucose tolerance,Impaired glucose tolerance	9414007
+C0587054 	Numbness of finger,Numbness of finger	309536001
